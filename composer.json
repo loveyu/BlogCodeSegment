@@ -1,0 +1,13 @@
+{
+    "name": "loveyu/blog-code-segment",
+    "description": "The code segment by loveyu's blog.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "loveyu",
+            "email": "i@loveyu.info"
+        }
+    ],
+    "require": {}
+}
