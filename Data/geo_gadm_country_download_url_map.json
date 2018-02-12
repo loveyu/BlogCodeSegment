@@ -1,0 +1,1272 @@
+[
+    {
+        "key": "AFG_Afghanistan_3",
+        "name": "Afghanistan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/AFG_adm_shp.zip"
+    },
+    {
+        "key": "XAD_Akrotiri and Dhekelia_2",
+        "name": "Akrotiri and Dhekelia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/XAD_adm_shp.zip"
+    },
+    {
+        "key": "ALA_Åland_2",
+        "name": "Åland",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ALA_adm_shp.zip"
+    },
+    {
+        "key": "ALB_Albania_4",
+        "name": "Albania",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ALB_adm_shp.zip"
+    },
+    {
+        "key": "DZA_Algeria_3",
+        "name": "Algeria",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/DZA_adm_shp.zip"
+    },
+    {
+        "key": "ASM_American Samoa_4",
+        "name": "American Samoa",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ASM_adm_shp.zip"
+    },
+    {
+        "key": "AND_Andorra_2",
+        "name": "Andorra",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/AND_adm_shp.zip"
+    },
+    {
+        "key": "AGO_Angola_4",
+        "name": "Angola",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/AGO_adm_shp.zip"
+    },
+    {
+        "key": "AIA_Anguilla_1",
+        "name": "Anguilla",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/AIA_adm_shp.zip"
+    },
+    {
+        "key": "ATA_Antarctica_1",
+        "name": "Antarctica",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ATA_adm_shp.zip"
+    },
+    {
+        "key": "ATG_Antigua and Barbuda_2",
+        "name": "Antigua and Barbuda",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ATG_adm_shp.zip"
+    },
+    {
+        "key": "ARG_Argentina_3",
+        "name": "Argentina",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ARG_adm_shp.zip"
+    },
+    {
+        "key": "ARM_Armenia_2",
+        "name": "Armenia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ARM_adm_shp.zip"
+    },
+    {
+        "key": "ABW_Aruba_1",
+        "name": "Aruba",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ABW_adm_shp.zip"
+    },
+    {
+        "key": "AUS_Australia_3",
+        "name": "Australia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/AUS_adm_shp.zip"
+    },
+    {
+        "key": "AUT_Austria_4",
+        "name": "Austria",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/AUT_adm_shp.zip"
+    },
+    {
+        "key": "AZE_Azerbaijan_3",
+        "name": "Azerbaijan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/AZE_adm_shp.zip"
+    },
+    {
+        "key": "BHS_Bahamas_2",
+        "name": "Bahamas",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BHS_adm_shp.zip"
+    },
+    {
+        "key": "BHR_Bahrain_2",
+        "name": "Bahrain",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BHR_adm_shp.zip"
+    },
+    {
+        "key": "BGD_Bangladesh_4",
+        "name": "Bangladesh",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BGD_adm_shp.zip"
+    },
+    {
+        "key": "BRB_Barbados_2",
+        "name": "Barbados",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BRB_adm_shp.zip"
+    },
+    {
+        "key": "BLR_Belarus_3",
+        "name": "Belarus",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BLR_adm_shp.zip"
+    },
+    {
+        "key": "BEL_Belgium_5",
+        "name": "Belgium",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BEL_adm_shp.zip"
+    },
+    {
+        "key": "BLZ_Belize_2",
+        "name": "Belize",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BLZ_adm_shp.zip"
+    },
+    {
+        "key": "BEN_Benin_3",
+        "name": "Benin",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BEN_adm_shp.zip"
+    },
+    {
+        "key": "BMU_Bermuda_2",
+        "name": "Bermuda",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BMU_adm_shp.zip"
+    },
+    {
+        "key": "BTN_Bhutan_3",
+        "name": "Bhutan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BTN_adm_shp.zip"
+    },
+    {
+        "key": "BOL_Bolivia_4",
+        "name": "Bolivia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BOL_adm_shp.zip"
+    },
+    {
+        "key": "BES_Bonaire, Saint Eustatius and Saba_2",
+        "name": "Bonaire, Saint Eustatius and Saba",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BES_adm_shp.zip"
+    },
+    {
+        "key": "BIH_Bosnia and Herzegovina_4",
+        "name": "Bosnia and Herzegovina",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BIH_adm_shp.zip"
+    },
+    {
+        "key": "BWA_Botswana_3",
+        "name": "Botswana",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BWA_adm_shp.zip"
+    },
+    {
+        "key": "BVT_Bouvet Island_1",
+        "name": "Bouvet Island",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BVT_adm_shp.zip"
+    },
+    {
+        "key": "BRA_Brazil_4",
+        "name": "Brazil",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BRA_adm_shp.zip"
+    },
+    {
+        "key": "IOT_British Indian Ocean Territory_1",
+        "name": "British Indian Ocean Territory",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/IOT_adm_shp.zip"
+    },
+    {
+        "key": "VGB_British Virgin Islands_2",
+        "name": "British Virgin Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/VGB_adm_shp.zip"
+    },
+    {
+        "key": "BRN_Brunei_3",
+        "name": "Brunei",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BRN_adm_shp.zip"
+    },
+    {
+        "key": "BGR_Bulgaria_3",
+        "name": "Bulgaria",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BGR_adm_shp.zip"
+    },
+    {
+        "key": "BFA_Burkina Faso_4",
+        "name": "Burkina Faso",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BFA_adm_shp.zip"
+    },
+    {
+        "key": "BDI_Burundi_5",
+        "name": "Burundi",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BDI_adm_shp.zip"
+    },
+    {
+        "key": "KHM_Cambodia_5",
+        "name": "Cambodia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/KHM_adm_shp.zip"
+    },
+    {
+        "key": "CMR_Cameroon_4",
+        "name": "Cameroon",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CMR_adm_shp.zip"
+    },
+    {
+        "key": "CAN_Canada_4",
+        "name": "Canada",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CAN_adm_shp.zip"
+    },
+    {
+        "key": "CPV_Cape Verde_2",
+        "name": "Cape Verde",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CPV_adm_shp.zip"
+    },
+    {
+        "key": "XCA_Caspian Sea_1",
+        "name": "Caspian Sea",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/XCA_adm_shp.zip"
+    },
+    {
+        "key": "CYM_Cayman Islands_2",
+        "name": "Cayman Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CYM_adm_shp.zip"
+    },
+    {
+        "key": "CAF_Central African Republic_3",
+        "name": "Central African Republic",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CAF_adm_shp.zip"
+    },
+    {
+        "key": "TCD_Chad_4",
+        "name": "Chad",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TCD_adm_shp.zip"
+    },
+    {
+        "key": "CHL_Chile_4",
+        "name": "Chile",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CHL_adm_shp.zip"
+    },
+    {
+        "key": "CHN_China_4",
+        "name": "China",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CHN_adm_shp.zip"
+    },
+    {
+        "key": "CXR_Christmas Island_1",
+        "name": "Christmas Island",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CXR_adm_shp.zip"
+    },
+    {
+        "key": "XCL_Clipperton Island_1",
+        "name": "Clipperton Island",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/XCL_adm_shp.zip"
+    },
+    {
+        "key": "CCK_Cocos Islands_1",
+        "name": "Cocos Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CCK_adm_shp.zip"
+    },
+    {
+        "key": "COL_Colombia_3",
+        "name": "Colombia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/COL_adm_shp.zip"
+    },
+    {
+        "key": "COM_Comoros_2",
+        "name": "Comoros",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/COM_adm_shp.zip"
+    },
+    {
+        "key": "COK_Cook Islands_1",
+        "name": "Cook Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/COK_adm_shp.zip"
+    },
+    {
+        "key": "CRI_Costa Rica_3",
+        "name": "Costa Rica",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CRI_adm_shp.zip"
+    },
+    {
+        "key": "CIV_Côte d'Ivoire_5",
+        "name": "Côte d'Ivoire",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CIV_adm_shp.zip"
+    },
+    {
+        "key": "HRV_Croatia_3",
+        "name": "Croatia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/HRV_adm_shp.zip"
+    },
+    {
+        "key": "CUB_Cuba_3",
+        "name": "Cuba",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CUB_adm_shp.zip"
+    },
+    {
+        "key": "CUW_Curaçao_1",
+        "name": "Curaçao",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CUW_adm_shp.zip"
+    },
+    {
+        "key": "CYP_Cyprus_2",
+        "name": "Cyprus",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CYP_adm_shp.zip"
+    },
+    {
+        "key": "CZE_Czech Republic_3",
+        "name": "Czech Republic",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CZE_adm_shp.zip"
+    },
+    {
+        "key": "COD_Democratic Republic of the Congo_4",
+        "name": "Democratic Republic of the Congo",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/COD_adm_shp.zip"
+    },
+    {
+        "key": "DNK_Denmark_3",
+        "name": "Denmark",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/DNK_adm_shp.zip"
+    },
+    {
+        "key": "DJI_Djibouti_3",
+        "name": "Djibouti",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/DJI_adm_shp.zip"
+    },
+    {
+        "key": "DMA_Dominica_2",
+        "name": "Dominica",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/DMA_adm_shp.zip"
+    },
+    {
+        "key": "DOM_Dominican Republic_3",
+        "name": "Dominican Republic",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/DOM_adm_shp.zip"
+    },
+    {
+        "key": "ECU_Ecuador_4",
+        "name": "Ecuador",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ECU_adm_shp.zip"
+    },
+    {
+        "key": "EGY_Egypt_3",
+        "name": "Egypt",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/EGY_adm_shp.zip"
+    },
+    {
+        "key": "SLV_El Salvador_3",
+        "name": "El Salvador",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SLV_adm_shp.zip"
+    },
+    {
+        "key": "GNQ_Equatorial Guinea_3",
+        "name": "Equatorial Guinea",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GNQ_adm_shp.zip"
+    },
+    {
+        "key": "ERI_Eritrea_3",
+        "name": "Eritrea",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ERI_adm_shp.zip"
+    },
+    {
+        "key": "EST_Estonia_4",
+        "name": "Estonia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/EST_adm_shp.zip"
+    },
+    {
+        "key": "ETH_Ethiopia_4",
+        "name": "Ethiopia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ETH_adm_shp.zip"
+    },
+    {
+        "key": "FLK_Falkland Islands_1",
+        "name": "Falkland Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/FLK_adm_shp.zip"
+    },
+    {
+        "key": "FRO_Faroe Islands_3",
+        "name": "Faroe Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/FRO_adm_shp.zip"
+    },
+    {
+        "key": "FJI_Fiji_3",
+        "name": "Fiji",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/FJI_adm_shp.zip"
+    },
+    {
+        "key": "FIN_Finland_5",
+        "name": "Finland",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/FIN_adm_shp.zip"
+    },
+    {
+        "key": "FRA_France_6",
+        "name": "France",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/FRA_adm_shp.zip"
+    },
+    {
+        "key": "GUF_French Guiana_3",
+        "name": "French Guiana",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GUF_adm_shp.zip"
+    },
+    {
+        "key": "PYF_French Polynesia_2",
+        "name": "French Polynesia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PYF_adm_shp.zip"
+    },
+    {
+        "key": "ATF_French Southern Territories_2",
+        "name": "French Southern Territories",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ATF_adm_shp.zip"
+    },
+    {
+        "key": "GAB_Gabon_3",
+        "name": "Gabon",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GAB_adm_shp.zip"
+    },
+    {
+        "key": "GMB_Gambia_3",
+        "name": "Gambia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GMB_adm_shp.zip"
+    },
+    {
+        "key": "GEO_Georgia_3",
+        "name": "Georgia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GEO_adm_shp.zip"
+    },
+    {
+        "key": "DEU_Germany_5",
+        "name": "Germany",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/DEU_adm_shp.zip"
+    },
+    {
+        "key": "GHA_Ghana_3",
+        "name": "Ghana",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GHA_adm_shp.zip"
+    },
+    {
+        "key": "GIB_Gibraltar_1",
+        "name": "Gibraltar",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GIB_adm_shp.zip"
+    },
+    {
+        "key": "GRC_Greece_4",
+        "name": "Greece",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GRC_adm_shp.zip"
+    },
+    {
+        "key": "GRL_Greenland_2",
+        "name": "Greenland",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GRL_adm_shp.zip"
+    },
+    {
+        "key": "GRD_Grenada_2",
+        "name": "Grenada",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GRD_adm_shp.zip"
+    },
+    {
+        "key": "GLP_Guadeloupe_3",
+        "name": "Guadeloupe",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GLP_adm_shp.zip"
+    },
+    {
+        "key": "GUM_Guam_2",
+        "name": "Guam",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GUM_adm_shp.zip"
+    },
+    {
+        "key": "GTM_Guatemala_3",
+        "name": "Guatemala",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GTM_adm_shp.zip"
+    },
+    {
+        "key": "GGY_Guernsey_2",
+        "name": "Guernsey",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GGY_adm_shp.zip"
+    },
+    {
+        "key": "GIN_Guinea_4",
+        "name": "Guinea",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GIN_adm_shp.zip"
+    },
+    {
+        "key": "GNB_Guinea-Bissau_3",
+        "name": "Guinea-Bissau",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GNB_adm_shp.zip"
+    },
+    {
+        "key": "GUY_Guyana_3",
+        "name": "Guyana",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GUY_adm_shp.zip"
+    },
+    {
+        "key": "HTI_Haiti_5",
+        "name": "Haiti",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/HTI_adm_shp.zip"
+    },
+    {
+        "key": "HMD_Heard Island and McDonald Islands_1",
+        "name": "Heard Island and McDonald Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/HMD_adm_shp.zip"
+    },
+    {
+        "key": "HND_Honduras_3",
+        "name": "Honduras",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/HND_adm_shp.zip"
+    },
+    {
+        "key": "HKG_Hong Kong_2",
+        "name": "Hong Kong",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/HKG_adm_shp.zip"
+    },
+    {
+        "key": "HUN_Hungary_3",
+        "name": "Hungary",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/HUN_adm_shp.zip"
+    },
+    {
+        "key": "ISL_Iceland_3",
+        "name": "Iceland",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ISL_adm_shp.zip"
+    },
+    {
+        "key": "IND_India_4",
+        "name": "India",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/IND_adm_shp.zip"
+    },
+    {
+        "key": "IDN_Indonesia_3",
+        "name": "Indonesia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/IDN_adm_shp.zip"
+    },
+    {
+        "key": "IRN_Iran_3",
+        "name": "Iran",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/IRN_adm_shp.zip"
+    },
+    {
+        "key": "IRQ_Iraq_3",
+        "name": "Iraq",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/IRQ_adm_shp.zip"
+    },
+    {
+        "key": "IRL_Ireland_2",
+        "name": "Ireland",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/IRL_adm_shp.zip"
+    },
+    {
+        "key": "IMN_Isle of Man_3",
+        "name": "Isle of Man",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/IMN_adm_shp.zip"
+    },
+    {
+        "key": "ISR_Israel_2",
+        "name": "Israel",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ISR_adm_shp.zip"
+    },
+    {
+        "key": "ITA_Italy_4",
+        "name": "Italy",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ITA_adm_shp.zip"
+    },
+    {
+        "key": "JAM_Jamaica_2",
+        "name": "Jamaica",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/JAM_adm_shp.zip"
+    },
+    {
+        "key": "JPN_Japan_3",
+        "name": "Japan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/JPN_adm_shp.zip"
+    },
+    {
+        "key": "JEY_Jersey_2",
+        "name": "Jersey",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/JEY_adm_shp.zip"
+    },
+    {
+        "key": "JOR_Jordan_3",
+        "name": "Jordan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/JOR_adm_shp.zip"
+    },
+    {
+        "key": "KAZ_Kazakhstan_3",
+        "name": "Kazakhstan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/KAZ_adm_shp.zip"
+    },
+    {
+        "key": "KEN_Kenya_4",
+        "name": "Kenya",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/KEN_adm_shp.zip"
+    },
+    {
+        "key": "KIR_Kiribati_1",
+        "name": "Kiribati",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/KIR_adm_shp.zip"
+    },
+    {
+        "key": "XKO_Kosovo_3",
+        "name": "Kosovo",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/XKO_adm_shp.zip"
+    },
+    {
+        "key": "KWT_Kuwait_2",
+        "name": "Kuwait",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/KWT_adm_shp.zip"
+    },
+    {
+        "key": "KGZ_Kyrgyzstan_3",
+        "name": "Kyrgyzstan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/KGZ_adm_shp.zip"
+    },
+    {
+        "key": "LAO_Laos_3",
+        "name": "Laos",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LAO_adm_shp.zip"
+    },
+    {
+        "key": "LVA_Latvia_3",
+        "name": "Latvia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LVA_adm_shp.zip"
+    },
+    {
+        "key": "LBN_Lebanon_4",
+        "name": "Lebanon",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LBN_adm_shp.zip"
+    },
+    {
+        "key": "LSO_Lesotho_2",
+        "name": "Lesotho",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LSO_adm_shp.zip"
+    },
+    {
+        "key": "LBR_Liberia_4",
+        "name": "Liberia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LBR_adm_shp.zip"
+    },
+    {
+        "key": "LBY_Libya_2",
+        "name": "Libya",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LBY_adm_shp.zip"
+    },
+    {
+        "key": "LIE_Liechtenstein_2",
+        "name": "Liechtenstein",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LIE_adm_shp.zip"
+    },
+    {
+        "key": "LTU_Lithuania_3",
+        "name": "Lithuania",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LTU_adm_shp.zip"
+    },
+    {
+        "key": "LUX_Luxembourg_5",
+        "name": "Luxembourg",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LUX_adm_shp.zip"
+    },
+    {
+        "key": "MAC_Macao_3",
+        "name": "Macao",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MAC_adm_shp.zip"
+    },
+    {
+        "key": "MKD_Macedonia_2",
+        "name": "Macedonia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MKD_adm_shp.zip"
+    },
+    {
+        "key": "MDG_Madagascar_5",
+        "name": "Madagascar",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MDG_adm_shp.zip"
+    },
+    {
+        "key": "MWI_Malawi_4",
+        "name": "Malawi",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MWI_adm_shp.zip"
+    },
+    {
+        "key": "MYS_Malaysia_3",
+        "name": "Malaysia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MYS_adm_shp.zip"
+    },
+    {
+        "key": "MDV_Maldives_1",
+        "name": "Maldives",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MDV_adm_shp.zip"
+    },
+    {
+        "key": "MLI_Mali_5",
+        "name": "Mali",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MLI_adm_shp.zip"
+    },
+    {
+        "key": "MLT_Malta_1",
+        "name": "Malta",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MLT_adm_shp.zip"
+    },
+    {
+        "key": "MHL_Marshall Islands_1",
+        "name": "Marshall Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MHL_adm_shp.zip"
+    },
+    {
+        "key": "MTQ_Martinique_3",
+        "name": "Martinique",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MTQ_adm_shp.zip"
+    },
+    {
+        "key": "MRT_Mauritania_3",
+        "name": "Mauritania",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MRT_adm_shp.zip"
+    },
+    {
+        "key": "MUS_Mauritius_2",
+        "name": "Mauritius",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MUS_adm_shp.zip"
+    },
+    {
+        "key": "MYT_Mayotte_2",
+        "name": "Mayotte",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MYT_adm_shp.zip"
+    },
+    {
+        "key": "MEX_Mexico_3",
+        "name": "Mexico",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MEX_adm_shp.zip"
+    },
+    {
+        "key": "FSM_Micronesia_2",
+        "name": "Micronesia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/FSM_adm_shp.zip"
+    },
+    {
+        "key": "MDA_Moldova_2",
+        "name": "Moldova",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MDA_adm_shp.zip"
+    },
+    {
+        "key": "MCO_Monaco_1",
+        "name": "Monaco",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MCO_adm_shp.zip"
+    },
+    {
+        "key": "MNG_Mongolia_3",
+        "name": "Mongolia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MNG_adm_shp.zip"
+    },
+    {
+        "key": "MNE_Montenegro_2",
+        "name": "Montenegro",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MNE_adm_shp.zip"
+    },
+    {
+        "key": "MSR_Montserrat_2",
+        "name": "Montserrat",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MSR_adm_shp.zip"
+    },
+    {
+        "key": "MAR_Morocco_5",
+        "name": "Morocco",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MAR_adm_shp.zip"
+    },
+    {
+        "key": "MOZ_Mozambique_4",
+        "name": "Mozambique",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MOZ_adm_shp.zip"
+    },
+    {
+        "key": "MMR_Myanmar_4",
+        "name": "Myanmar",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MMR_adm_shp.zip"
+    },
+    {
+        "key": "NAM_Namibia_3",
+        "name": "Namibia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NAM_adm_shp.zip"
+    },
+    {
+        "key": "NRU_Nauru_2",
+        "name": "Nauru",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NRU_adm_shp.zip"
+    },
+    {
+        "key": "NPL_Nepal_5",
+        "name": "Nepal",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NPL_adm_shp.zip"
+    },
+    {
+        "key": "NLD_Netherlands_3",
+        "name": "Netherlands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NLD_adm_shp.zip"
+    },
+    {
+        "key": "NCL_New Caledonia_3",
+        "name": "New Caledonia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NCL_adm_shp.zip"
+    },
+    {
+        "key": "NZL_New Zealand_4",
+        "name": "New Zealand",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NZL_adm_shp.zip"
+    },
+    {
+        "key": "NIC_Nicaragua_3",
+        "name": "Nicaragua",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NIC_adm_shp.zip"
+    },
+    {
+        "key": "NER_Niger_4",
+        "name": "Niger",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NER_adm_shp.zip"
+    },
+    {
+        "key": "NGA_Nigeria_3",
+        "name": "Nigeria",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NGA_adm_shp.zip"
+    },
+    {
+        "key": "NIU_Niue_1",
+        "name": "Niue",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NIU_adm_shp.zip"
+    },
+    {
+        "key": "NFK_Norfolk Island_1",
+        "name": "Norfolk Island",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NFK_adm_shp.zip"
+    },
+    {
+        "key": "PRK_North Korea_3",
+        "name": "North Korea",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PRK_adm_shp.zip"
+    },
+    {
+        "key": "XNC_Northern Cyprus_2",
+        "name": "Northern Cyprus",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/XNC_adm_shp.zip"
+    },
+    {
+        "key": "MNP_Northern Mariana Islands_2",
+        "name": "Northern Mariana Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MNP_adm_shp.zip"
+    },
+    {
+        "key": "NOR_Norway_3",
+        "name": "Norway",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/NOR_adm_shp.zip"
+    },
+    {
+        "key": "OMN_Oman_3",
+        "name": "Oman",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/OMN_adm_shp.zip"
+    },
+    {
+        "key": "PAK_Pakistan_4",
+        "name": "Pakistan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PAK_adm_shp.zip"
+    },
+    {
+        "key": "PLW_Palau_2",
+        "name": "Palau",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PLW_adm_shp.zip"
+    },
+    {
+        "key": "PSE_Palestina_3",
+        "name": "Palestina",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PSE_adm_shp.zip"
+    },
+    {
+        "key": "PAN_Panama_4",
+        "name": "Panama",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PAN_adm_shp.zip"
+    },
+    {
+        "key": "PNG_Papua New Guinea_3",
+        "name": "Papua New Guinea",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PNG_adm_shp.zip"
+    },
+    {
+        "key": "PRY_Paraguay_3",
+        "name": "Paraguay",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PRY_adm_shp.zip"
+    },
+    {
+        "key": "PER_Peru_4",
+        "name": "Peru",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PER_adm_shp.zip"
+    },
+    {
+        "key": "PHL_Philippines_4",
+        "name": "Philippines",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PHL_adm_shp.zip"
+    },
+    {
+        "key": "PCN_Pitcairn Islands_1",
+        "name": "Pitcairn Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PCN_adm_shp.zip"
+    },
+    {
+        "key": "POL_Poland_3",
+        "name": "Poland",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/POL_adm_shp.zip"
+    },
+    {
+        "key": "PRT_Portugal_4",
+        "name": "Portugal",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PRT_adm_shp.zip"
+    },
+    {
+        "key": "PRI_Puerto Rico_2",
+        "name": "Puerto Rico",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/PRI_adm_shp.zip"
+    },
+    {
+        "key": "QAT_Qatar_2",
+        "name": "Qatar",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/QAT_adm_shp.zip"
+    },
+    {
+        "key": "COG_Republic of Congo_3",
+        "name": "Republic of Congo",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/COG_adm_shp.zip"
+    },
+    {
+        "key": "REU_Reunion_3",
+        "name": "Reunion",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/REU_adm_shp.zip"
+    },
+    {
+        "key": "ROU_Romania_3",
+        "name": "Romania",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ROU_adm_shp.zip"
+    },
+    {
+        "key": "RUS_Russia_4",
+        "name": "Russia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/RUS_adm_shp.zip"
+    },
+    {
+        "key": "RWA_Rwanda_6",
+        "name": "Rwanda",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/RWA_adm_shp.zip"
+    },
+    {
+        "key": "BLM_Saint-Barthélemy_1",
+        "name": "Saint-Barthélemy",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/BLM_adm_shp.zip"
+    },
+    {
+        "key": "MAF_Saint-Martin_1",
+        "name": "Saint-Martin",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/MAF_adm_shp.zip"
+    },
+    {
+        "key": "SHN_Saint Helena_3",
+        "name": "Saint Helena",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SHN_adm_shp.zip"
+    },
+    {
+        "key": "KNA_Saint Kitts and Nevis_2",
+        "name": "Saint Kitts and Nevis",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/KNA_adm_shp.zip"
+    },
+    {
+        "key": "LCA_Saint Lucia_2",
+        "name": "Saint Lucia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LCA_adm_shp.zip"
+    },
+    {
+        "key": "SPM_Saint Pierre and Miquelon_2",
+        "name": "Saint Pierre and Miquelon",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SPM_adm_shp.zip"
+    },
+    {
+        "key": "VCT_Saint Vincent and the Grenadines_2",
+        "name": "Saint Vincent and the Grenadines",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/VCT_adm_shp.zip"
+    },
+    {
+        "key": "WSM_Samoa_3",
+        "name": "Samoa",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/WSM_adm_shp.zip"
+    },
+    {
+        "key": "SMR_San Marino_2",
+        "name": "San Marino",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SMR_adm_shp.zip"
+    },
+    {
+        "key": "STP_Sao Tome and Principe_3",
+        "name": "Sao Tome and Principe",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/STP_adm_shp.zip"
+    },
+    {
+        "key": "SAU_Saudi Arabia_2",
+        "name": "Saudi Arabia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SAU_adm_shp.zip"
+    },
+    {
+        "key": "SEN_Senegal_5",
+        "name": "Senegal",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SEN_adm_shp.zip"
+    },
+    {
+        "key": "SRB_Serbia_3",
+        "name": "Serbia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SRB_adm_shp.zip"
+    },
+    {
+        "key": "SYC_Seychelles_2",
+        "name": "Seychelles",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SYC_adm_shp.zip"
+    },
+    {
+        "key": "SLE_Sierra Leone_4",
+        "name": "Sierra Leone",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SLE_adm_shp.zip"
+    },
+    {
+        "key": "SGP_Singapore_2",
+        "name": "Singapore",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SGP_adm_shp.zip"
+    },
+    {
+        "key": "SXM_Sint Maarten_1",
+        "name": "Sint Maarten",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SXM_adm_shp.zip"
+    },
+    {
+        "key": "SVK_Slovakia_3",
+        "name": "Slovakia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SVK_adm_shp.zip"
+    },
+    {
+        "key": "SVN_Slovenia_3",
+        "name": "Slovenia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SVN_adm_shp.zip"
+    },
+    {
+        "key": "SLB_Solomon Islands_3",
+        "name": "Solomon Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SLB_adm_shp.zip"
+    },
+    {
+        "key": "SOM_Somalia_3",
+        "name": "Somalia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SOM_adm_shp.zip"
+    },
+    {
+        "key": "ZAF_South Africa_5",
+        "name": "South Africa",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ZAF_adm_shp.zip"
+    },
+    {
+        "key": "SGS_South Georgia and the South Sandwich Islands_1",
+        "name": "South Georgia and the South Sandwich Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SGS_adm_shp.zip"
+    },
+    {
+        "key": "KOR_South Korea_3",
+        "name": "South Korea",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/KOR_adm_shp.zip"
+    },
+    {
+        "key": "SSD_South Sudan_4",
+        "name": "South Sudan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SSD_adm_shp.zip"
+    },
+    {
+        "key": "ESP_Spain_5",
+        "name": "Spain",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ESP_adm_shp.zip"
+    },
+    {
+        "key": "LKA_Sri Lanka_3",
+        "name": "Sri Lanka",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/LKA_adm_shp.zip"
+    },
+    {
+        "key": "SDN_Sudan_4",
+        "name": "Sudan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SDN_adm_shp.zip"
+    },
+    {
+        "key": "SUR_Suriname_3",
+        "name": "Suriname",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SUR_adm_shp.zip"
+    },
+    {
+        "key": "SJM_Svalbard and Jan Mayen_2",
+        "name": "Svalbard and Jan Mayen",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SJM_adm_shp.zip"
+    },
+    {
+        "key": "SWZ_Swaziland_3",
+        "name": "Swaziland",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SWZ_adm_shp.zip"
+    },
+    {
+        "key": "SWE_Sweden_3",
+        "name": "Sweden",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SWE_adm_shp.zip"
+    },
+    {
+        "key": "CHE_Switzerland_4",
+        "name": "Switzerland",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/CHE_adm_shp.zip"
+    },
+    {
+        "key": "SYR_Syria_3",
+        "name": "Syria",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/SYR_adm_shp.zip"
+    },
+    {
+        "key": "TWN_Taiwan_3",
+        "name": "Taiwan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TWN_adm_shp.zip"
+    },
+    {
+        "key": "TJK_Tajikistan_4",
+        "name": "Tajikistan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TJK_adm_shp.zip"
+    },
+    {
+        "key": "TZA_Tanzania_4",
+        "name": "Tanzania",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TZA_adm_shp.zip"
+    },
+    {
+        "key": "THA_Thailand_4",
+        "name": "Thailand",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/THA_adm_shp.zip"
+    },
+    {
+        "key": "TLS_Timor-Leste_4",
+        "name": "Timor-Leste",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TLS_adm_shp.zip"
+    },
+    {
+        "key": "TGO_Togo_3",
+        "name": "Togo",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TGO_adm_shp.zip"
+    },
+    {
+        "key": "TKL_Tokelau_2",
+        "name": "Tokelau",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TKL_adm_shp.zip"
+    },
+    {
+        "key": "TON_Tonga_2",
+        "name": "Tonga",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TON_adm_shp.zip"
+    },
+    {
+        "key": "TTO_Trinidad and Tobago_2",
+        "name": "Trinidad and Tobago",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TTO_adm_shp.zip"
+    },
+    {
+        "key": "TUN_Tunisia_3",
+        "name": "Tunisia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TUN_adm_shp.zip"
+    },
+    {
+        "key": "TUR_Turkey_3",
+        "name": "Turkey",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TUR_adm_shp.zip"
+    },
+    {
+        "key": "TKM_Turkmenistan_2",
+        "name": "Turkmenistan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TKM_adm_shp.zip"
+    },
+    {
+        "key": "TCA_Turks and Caicos Islands_2",
+        "name": "Turks and Caicos Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TCA_adm_shp.zip"
+    },
+    {
+        "key": "TUV_Tuvalu_2",
+        "name": "Tuvalu",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/TUV_adm_shp.zip"
+    },
+    {
+        "key": "UGA_Uganda_5",
+        "name": "Uganda",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/UGA_adm_shp.zip"
+    },
+    {
+        "key": "UKR_Ukraine_3",
+        "name": "Ukraine",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/UKR_adm_shp.zip"
+    },
+    {
+        "key": "ARE_United Arab Emirates_2",
+        "name": "United Arab Emirates",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ARE_adm_shp.zip"
+    },
+    {
+        "key": "GBR_United Kingdom_3",
+        "name": "United Kingdom",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/GBR_adm_shp.zip"
+    },
+    {
+        "key": "USA_United States_3",
+        "name": "United States",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/USA_adm_shp.zip"
+    },
+    {
+        "key": "UMI_United States Minor Outlying Islands_2",
+        "name": "United States Minor Outlying Islands",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/UMI_adm_shp.zip"
+    },
+    {
+        "key": "URY_Uruguay_3",
+        "name": "Uruguay",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/URY_adm_shp.zip"
+    },
+    {
+        "key": "UZB_Uzbekistan_3",
+        "name": "Uzbekistan",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/UZB_adm_shp.zip"
+    },
+    {
+        "key": "VUT_Vanuatu_3",
+        "name": "Vanuatu",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/VUT_adm_shp.zip"
+    },
+    {
+        "key": "VAT_Vatican City_1",
+        "name": "Vatican City",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/VAT_adm_shp.zip"
+    },
+    {
+        "key": "VEN_Venezuela_3",
+        "name": "Venezuela",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/VEN_adm_shp.zip"
+    },
+    {
+        "key": "VNM_Vietnam_4",
+        "name": "Vietnam",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/VNM_adm_shp.zip"
+    },
+    {
+        "key": "VIR_Virgin Islands, U.S._3",
+        "name": "Virgin Islands, U.S.",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/VIR_adm_shp.zip"
+    },
+    {
+        "key": "WLF_Wallis and Futuna_3",
+        "name": "Wallis and Futuna",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/WLF_adm_shp.zip"
+    },
+    {
+        "key": "ESH_Western Sahara_2",
+        "name": "Western Sahara",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ESH_adm_shp.zip"
+    },
+    {
+        "key": "YEM_Yemen_3",
+        "name": "Yemen",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/YEM_adm_shp.zip"
+    },
+    {
+        "key": "ZMB_Zambia_3",
+        "name": "Zambia",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ZMB_adm_shp.zip"
+    },
+    {
+        "key": "ZWE_Zimbabwe_3",
+        "name": "Zimbabwe",
+        "url": "http:\/\/biogeo.ucdavis.edu\/data\/gadm2.8\/shp\/ZWE_adm_shp.zip"
+    }
+]
