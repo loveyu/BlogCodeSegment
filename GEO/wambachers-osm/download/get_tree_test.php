@@ -37,9 +37,14 @@ try {
 		],
 		'cookies'     => $jar
 	]);
+	$data = $post->getBody();
+	$data->seek(0);
+	$size = $data->getSize();
+	$content = $data->read($size);
+	$obj = \json_decode($content, true);
+	file_put_contents(BCS_DATA."wambacher-osm.test_tree,json", json_encode($obj, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 } catch(Exception $exception) {
 	print_r($exception->getMessage());
 }
-echo $post->getBody()->getContents();
 
 //print_r($jar->toArray());
