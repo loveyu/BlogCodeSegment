@@ -1,0 +1,8504 @@
+[
+  {
+    "a_attr": {"title": "AFG 303427 Afghanistan (افغانستان) 2018-02-13 01:23:37+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            60.5176,
+            29.3772
+          ],
+          [
+            60.5176,
+            38.49107
+          ],
+          [
+            74.88986,
+            38.49107
+          ],
+          [
+            74.88986,
+            29.3772
+          ],
+          [
+            60.5176,
+            29.3772
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 303427,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Afghanistan (2)"
+  },
+  {
+    "a_attr": {"title": "ALB 53292 Albania (Shqipëria) 2018-02-13 01:24:44+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            19.12461,
+            39.64486
+          ],
+          [
+            19.12461,
+            42.66108
+          ],
+          [
+            21.05743,
+            42.66108
+          ],
+          [
+            21.05743,
+            39.64486
+          ],
+          [
+            19.12461,
+            39.64486
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 53292,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Albania (2)"
+  },
+  {
+    "a_attr": {"title": "DZA 192756 Algeria (ⵍⵣⵣⴰⵢⴻⵔ الجزائر) 2018-02-13 02:27:21+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -8.66891,
+            18.96815
+          ],
+          [
+            -8.66891,
+            37.29621
+          ],
+          [
+            11.99734,
+            37.29621
+          ],
+          [
+            11.99734,
+            18.96815
+          ],
+          [
+            -8.66891,
+            18.96815
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192756,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Algeria (2)"
+  },
+  {
+    "a_attr": {"title": "AND 9407 Andorra (Andorra) 2018-02-13 01:24:47+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            1.41358,
+            42.42882
+          ],
+          [
+            1.41358,
+            42.65594
+          ],
+          [
+            1.78638,
+            42.65594
+          ],
+          [
+            1.78638,
+            42.42882
+          ],
+          [
+            1.41358,
+            42.42882
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 9407,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Andorra (2)"
+  },
+  {
+    "a_attr": {"title": "AGO 195267 Angola (Angola) 2018-02-13 01:24:27+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            11.46098,
+            -18.03894
+          ],
+          [
+            11.46098,
+            -4.38806
+          ],
+          [
+            24.08789,
+            -4.38806
+          ],
+          [
+            24.08789,
+            -18.03894
+          ],
+          [
+            11.46098,
+            -18.03894
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 195267,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Angola (2)"
+  },
+  {
+    "a_attr": {"title": "AIA 2177161 Anguilla (Anguilla) 2018-02-13 01:24:28+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -63.6392,
+            18.06155
+          ],
+          [
+            -63.6392,
+            18.79512
+          ],
+          [
+            -62.71254,
+            18.79512
+          ],
+          [
+            -62.71254,
+            18.06155
+          ],
+          [
+            -63.6392,
+            18.06155
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2177161,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Anguilla (2)"
+  },
+  {
+    "a_attr": {"title": "ATG 536900 Antigua and Barbuda (Antigua and Barbuda) 2018-02-13 01:29:18+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -62.55365,
+            16.75739
+          ],
+          [
+            -62.55365,
+            17.929
+          ],
+          [
+            -61.44786,
+            17.929
+          ],
+          [
+            -61.44786,
+            16.75739
+          ],
+          [
+            -62.55365,
+            16.75739
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 536900,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Antigua and Barbuda (2)"
+  },
+  {
+    "a_attr": {"title": "ARG 286393 Argentina (Argentina) 2018-02-13 01:29:04+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -73.56003,
+            -55.18508
+          ],
+          [
+            -73.56003,
+            -21.78117
+          ],
+          [
+            -53.63745,
+            -21.78117
+          ],
+          [
+            -53.63745,
+            -55.18508
+          ],
+          [
+            -73.56003,
+            -55.18508
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 286393,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Argentina (2)"
+  },
+  {
+    "a_attr": {"title": "ARM 364066 Armenia (Հայաստան) 2018-02-13 01:29:15+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            43.44714,
+            38.84048
+          ],
+          [
+            43.44714,
+            41.30071
+          ],
+          [
+            46.63331,
+            41.30071
+          ],
+          [
+            46.63331,
+            38.84048
+          ],
+          [
+            43.44714,
+            38.84048
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 364066,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Armenia (2)"
+  },
+  {
+    "a_attr": {"title": "AUS 80500 Australia (Australia) 2018-02-13 01:31:58+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            72.24609,
+            -55.32282
+          ],
+          [
+            72.24609,
+            -9.08823
+          ],
+          [
+            168.22495,
+            -9.08823
+          ],
+          [
+            168.22495,
+            -55.32282
+          ],
+          [
+            72.24609,
+            -55.32282
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 80500,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Australia (2)"
+  },
+  {
+    "a_attr": {"title": "AUT 16239 Austria (Österreich) 2018-02-13 01:34:51+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            9.53075,
+            46.37228
+          ],
+          [
+            9.53075,
+            49.02053
+          ],
+          [
+            17.16078,
+            49.02053
+          ],
+          [
+            17.16078,
+            46.37228
+          ],
+          [
+            9.53075,
+            46.37228
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 16239,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Austria (2)"
+  },
+  {
+    "a_attr": {"title": "AZE 364110 Azerbaijan (Azərbaycan) 2018-02-13 01:35:04+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            44.76337,
+            38.39296
+          ],
+          [
+            44.76337,
+            41.95029
+          ],
+          [
+            51.00903,
+            41.95029
+          ],
+          [
+            51.00903,
+            38.39296
+          ],
+          [
+            44.76337,
+            38.39296
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 364110,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Azerbaijan (2)"
+  },
+  {
+    "a_attr": {"title": "BHR 378734 Bahrain (\u200fالبحرين\u200e) 2018-02-13 01:38:52+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            50.2698,
+            25.535
+          ],
+          [
+            50.2698,
+            26.68724
+          ],
+          [
+            50.92337,
+            26.68724
+          ],
+          [
+            50.92337,
+            25.535
+          ],
+          [
+            50.2698,
+            25.535
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 378734,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Bahrain (2)"
+  },
+  {
+    "a_attr": {"title": "BGD 184640 Bangladesh (বাংলাদেশ) 2018-02-13 01:38:22+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            88.00753,
+            20.37566
+          ],
+          [
+            88.00753,
+            26.63825
+          ],
+          [
+            92.6805,
+            26.63825
+          ],
+          [
+            92.6805,
+            20.37566
+          ],
+          [
+            88.00753,
+            20.37566
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 184640,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Bangladesh (2)"
+  },
+  {
+    "a_attr": {"title": "BRB 547511 Barbados (Barbados) 2018-02-13 01:59:09+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -59.85621,
+            12.845
+          ],
+          [
+            -59.85621,
+            13.535
+          ],
+          [
+            -59.21472,
+            13.535
+          ],
+          [
+            -59.21472,
+            12.845
+          ],
+          [
+            -59.85621,
+            12.845
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 547511,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Barbados (2)"
+  },
+  {
+    "a_attr": {"title": "BLR 59065 Belarus (Беларусь) 2018-02-13 01:40:26+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            23.17833,
+            51.2576
+          ],
+          [
+            23.17833,
+            56.17218
+          ],
+          [
+            32.76278,
+            56.17218
+          ],
+          [
+            32.76278,
+            51.2576
+          ],
+          [
+            23.17833,
+            51.2576
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 59065,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Belarus (2)"
+  },
+  {
+    "a_attr": {"title": "BEL 52411 Belgium (België / Belgique / Belgien) 2018-02-13 01:36:47+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            2.38891,
+            49.49698
+          ],
+          [
+            2.38891,
+            51.55167
+          ],
+          [
+            6.4081,
+            51.55167
+          ],
+          [
+            6.4081,
+            49.49698
+          ],
+          [
+            2.38891,
+            49.49698
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 52411,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Belgium (2)"
+  },
+  {
+    "a_attr": {"title": "BLZ 287827 Belize (Belize) 2018-02-13 01:40:32+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -89.22621,
+            15.88573
+          ],
+          [
+            -89.22621,
+            18.496
+          ],
+          [
+            -87.30985,
+            18.496
+          ],
+          [
+            -87.30985,
+            15.88573
+          ],
+          [
+            -89.22621,
+            15.88573
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 287827,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Belize (2)"
+  },
+  {
+    "a_attr": {"title": "BEN 192784 Benin (Bénin) 2018-02-13 01:37:09+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            0.77667,
+            6.03987
+          ],
+          [
+            0.77667,
+            12.40924
+          ],
+          [
+            3.84334,
+            12.40924
+          ],
+          [
+            3.84334,
+            6.03987
+          ],
+          [
+            0.77667,
+            6.03987
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192784,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Benin (2)"
+  },
+  {
+    "a_attr": {"title": "BMU 1993208 Bermuda (Bermuda) 2018-02-13 01:40:33+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -65.12322,
+            32.04697
+          ],
+          [
+            -65.12322,
+            32.59137
+          ],
+          [
+            -64.41098,
+            32.59137
+          ],
+          [
+            -64.41098,
+            32.04697
+          ],
+          [
+            -65.12322,
+            32.04697
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1993208,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Bermuda (2)"
+  },
+  {
+    "a_attr": {"title": "BTN 184629 Bhutan (འབྲུག་ཡུལ་) 2018-02-13 01:59:29+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            88.74647,
+            26.70202
+          ],
+          [
+            88.74647,
+            28.24699
+          ],
+          [
+            92.12523,
+            28.24699
+          ],
+          [
+            92.12523,
+            26.70202
+          ],
+          [
+            88.74647,
+            26.70202
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 184629,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Bhutan (2)"
+  },
+  {
+    "a_attr": {"title": "BOL 252645 Bolivia (Bolivia) 2018-02-13 01:41:22+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -69.64501,
+            -22.89827
+          ],
+          [
+            -69.64501,
+            -9.66894
+          ],
+          [
+            -57.453,
+            -9.66894
+          ],
+          [
+            -57.453,
+            -22.89827
+          ],
+          [
+            -69.64501,
+            -22.89827
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 252645,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Bolivia (2)"
+  },
+  {
+    "a_attr": {"title": "BIH 2528142 Bosnia and Herzegovina (Bosna i Hercegovina / Босна и Херцеговина) 2018-02-13 01:39:26+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            15.72874,
+            42.55531
+          ],
+          [
+            15.72874,
+            45.27641
+          ],
+          [
+            19.62373,
+            45.27641
+          ],
+          [
+            19.62373,
+            42.55531
+          ],
+          [
+            15.72874,
+            42.55531
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2528142,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Bosnia and Herzegovina (2)"
+  },
+  {
+    "a_attr": {"title": "BWA 1889339 Botswana (Botswana) 2018-02-13 02:00:03+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            19.99865,
+            -26.90597
+          ],
+          [
+            19.99865,
+            -17.77814
+          ],
+          [
+            29.3753,
+            -17.77814
+          ],
+          [
+            29.3753,
+            -26.90597
+          ],
+          [
+            19.99865,
+            -26.90597
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1889339,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Botswana (2)"
+  },
+  {
+    "a_attr": {"title": "BRA 59470 Brazil (Brasil) 2018-02-13 01:59:04+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -73.98306,
+            -33.86891
+          ],
+          [
+            -73.98306,
+            5.28429
+          ],
+          [
+            -28.63412,
+            5.28429
+          ],
+          [
+            -28.63412,
+            -33.86891
+          ],
+          [
+            -73.98306,
+            -33.86891
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 59470,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Brazil (2)"
+  },
+  {
+    "a_attr": {"title": "IOT 1993867 British Indian Ocean Territory (British Indian Ocean Territory) 2018-02-13 02:54:05+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            71.0365,
+            -7.64541
+          ],
+          [
+            71.0365,
+            -5.03707
+          ],
+          [
+            72.70202,
+            -5.03707
+          ],
+          [
+            72.70202,
+            -7.64541
+          ],
+          [
+            71.0365,
+            -7.64541
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1993867,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "British Indian Ocean Territory (2)"
+  },
+  {
+    "a_attr": {"title": "VGB 285454 British Virgin Islands (British Virgin Islands) 2018-02-13 04:26:33+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -64.95596,
+            18.10553
+          ],
+          [
+            -64.95596,
+            18.95038
+          ],
+          [
+            -64.05973,
+            18.95038
+          ],
+          [
+            -64.05973,
+            18.10553
+          ],
+          [
+            -64.95596,
+            18.10553
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 285454,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "British Virgin Islands (2)"
+  },
+  {
+    "a_attr": {"title": "BRN 2103120 Brunei (Brunei) 2018-02-13 01:59:16+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            114.07612,
+            4.00251
+          ],
+          [
+            114.07612,
+            5.10119
+          ],
+          [
+            115.36356,
+            5.10119
+          ],
+          [
+            115.36356,
+            4.00251
+          ],
+          [
+            114.07612,
+            4.00251
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2103120,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Brunei (2)"
+  },
+  {
+    "a_attr": {"title": "BGR 186382 Bulgaria (Бълга̀рия) 2018-02-13 01:38:50+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            22.35715,
+            41.23539
+          ],
+          [
+            22.35715,
+            44.21671
+          ],
+          [
+            28.88754,
+            44.21671
+          ],
+          [
+            28.88754,
+            41.23539
+          ],
+          [
+            22.35715,
+            41.23539
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 186382,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Bulgaria (2)"
+  },
+  {
+    "a_attr": {"title": "BFA 192783 Burkina Faso (Burkina Faso) 2018-02-13 01:37:47+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -5.51324,
+            9.41047
+          ],
+          [
+            -5.51324,
+            15.084
+          ],
+          [
+            2.40897,
+            15.084
+          ],
+          [
+            2.40897,
+            9.41047
+          ],
+          [
+            -5.51324,
+            9.41047
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192783,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Burkina Faso (2)"
+  },
+  {
+    "a_attr": {"title": "BDI 195269 Burundi (Burundi) 2018-02-13 01:35:27+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            29.00074,
+            -4.46932
+          ],
+          [
+            29.00074,
+            -2.30968
+          ],
+          [
+            30.84985,
+            -2.30968
+          ],
+          [
+            30.84985,
+            -4.46932
+          ],
+          [
+            29.00074,
+            -4.46932
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 195269,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Burundi (2)"
+  },
+  {
+    "a_attr": {"title": "KHM 49898 Cambodia (ព្រះរាជាណាចក្រ\u200bកម្ពុជា) 2018-02-13 03:08:52+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            102.33383,
+            9.47526
+          ],
+          [
+            102.33383,
+            14.69025
+          ],
+          [
+            107.62768,
+            14.69025
+          ],
+          [
+            107.62768,
+            9.47526
+          ],
+          [
+            102.33383,
+            9.47526
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 49898,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Cambodia (2)"
+  },
+  {
+    "a_attr": {"title": "CMR 192830 Cameroon (Cameroun) 2018-02-13 02:08:28+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            8.38222,
+            1.65467
+          ],
+          [
+            8.38222,
+            13.08333
+          ],
+          [
+            16.19215,
+            13.08333
+          ],
+          [
+            16.19215,
+            1.65467
+          ],
+          [
+            8.38222,
+            1.65467
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192830,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Cameroon (2)"
+  },
+  {
+    "a_attr": {"title": "CAN 1428125 Canada (Canada) 2018-02-13 09:24:36+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -141.00275,
+            41.67656
+          ],
+          [
+            -141.00275,
+            83.33621
+          ],
+          [
+            -52.3232,
+            83.33621
+          ],
+          [
+            -52.3232,
+            41.67656
+          ],
+          [
+            -141.00275,
+            41.67656
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1428125,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Canada (2)"
+  },
+  {
+    "a_attr": {"title": "CPV 535774 Cape Verde (Cabo Verde) 2018-02-13 02:11:46+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -25.57311,
+            14.60662
+          ],
+          [
+            -25.57311,
+            17.40712
+          ],
+          [
+            -22.45478,
+            17.40712
+          ],
+          [
+            -22.45478,
+            14.60662
+          ],
+          [
+            -25.57311,
+            14.60662
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 535774,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Cape Verde (2)"
+  },
+  {
+    "a_attr": {"title": "CYM 2185366 Cayman Islands (Cayman Islands) 2018-02-13 02:12:04+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -81.63137,
+            19.06206
+          ],
+          [
+            -81.63137,
+            19.95738
+          ],
+          [
+            -79.5111,
+            19.95738
+          ],
+          [
+            -79.5111,
+            19.06206
+          ],
+          [
+            -81.63137,
+            19.06206
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2185366,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Cayman Islands (2)"
+  },
+  {
+    "a_attr": {"title": "CAF 192790 Central African Republic (Ködörösêse tî Bêafrîka - République Centrafricaine) 2018-02-13 02:00:33+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            14.41554,
+            2.21566
+          ],
+          [
+            14.41554,
+            11.00139
+          ],
+          [
+            27.45408,
+            11.00139
+          ],
+          [
+            27.45408,
+            2.21566
+          ],
+          [
+            14.41554,
+            2.21566
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192790,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Central African Republic (2)"
+  },
+  {
+    "a_attr": {"title": "TCD 2361304 Chad (Tchad تشاد) 2018-02-13 04:16:54+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            13.47348,
+            7.44107
+          ],
+          [
+            13.47348,
+            23.4975
+          ],
+          [
+            24,
+            23.4975
+          ],
+          [
+            24,
+            7.44107
+          ],
+          [
+            13.47348,
+            7.44107
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2361304,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Chad (2)"
+  },
+  {
+    "a_attr": {"title": "CHL 167454 Chile (Chile) 2018-02-13 09:23:11+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -109.67958,
+            -56.725
+          ],
+          [
+            -109.67958,
+            -17.4984
+          ],
+          [
+            -66.07535,
+            -17.4984
+          ],
+          [
+            -66.07535,
+            -56.725
+          ],
+          [
+            -109.67958,
+            -56.725
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 167454,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Chile (2)"
+  },
+  {
+    "a_attr": {"title": "CHN 270056 China (中国) 2018-02-13 02:07:13+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            73.49973,
+            8.83834
+          ],
+          [
+            73.49973,
+            53.56082
+          ],
+          [
+            134.77546,
+            53.56082
+          ],
+          [
+            134.77546,
+            8.83834
+          ],
+          [
+            73.49973,
+            8.83834
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 270056,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "China (2)"
+  },
+  {
+    "a_attr": {"title": "COL 120027 Colombia (Colombia) 2018-02-13 02:11:40+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -82.12437,
+            -4.23169
+          ],
+          [
+            -82.12437,
+            16.05713
+          ],
+          [
+            -66.85119,
+            16.05713
+          ],
+          [
+            -66.85119,
+            -4.23169
+          ],
+          [
+            -82.12437,
+            -4.23169
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 120027,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Colombia (2)"
+  },
+  {
+    "a_attr": {"title": "COM 535790 Comoros (Comores Komori جزر القمر) 2018-02-13 02:11:45+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            43.02531,
+            -12.621
+          ],
+          [
+            43.02531,
+            -11.165
+          ],
+          [
+            44.74519,
+            -11.165
+          ],
+          [
+            44.74519,
+            -12.621
+          ],
+          [
+            43.02531,
+            -12.621
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 535790,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Comoros (2)"
+  },
+  {
+    "a_attr": {"title": "COG 192794 Congo-Brazzaville (Congo) 2018-02-13 02:10:17+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            11.00482,
+            -5.14909
+          ],
+          [
+            11.00482,
+            3.71306
+          ],
+          [
+            18.64361,
+            3.71306
+          ],
+          [
+            18.64361,
+            -5.14909
+          ],
+          [
+            11.00482,
+            -5.14909
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192794,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Congo-Brazzaville (2)"
+  },
+  {
+    "a_attr": {"title": "COK 2184233 Cook Islands (Kūki 'Āirani) 2018-02-13 02:10:20+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -166.08565,
+            -22.15807
+          ],
+          [
+            -166.08565,
+            -8.71688
+          ],
+          [
+            -157.10893,
+            -8.71688
+          ],
+          [
+            -157.10893,
+            -22.15807
+          ],
+          [
+            -166.08565,
+            -22.15807
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2184233,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Cook Islands (2)"
+  },
+  {
+    "a_attr": {"title": "CRI 287667 Costa Rica (Costa Rica) 2018-02-13 02:11:59+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -87.27226,
+            5.33297
+          ],
+          [
+            -87.27226,
+            11.21957
+          ],
+          [
+            -82.50602,
+            11.21957
+          ],
+          [
+            -82.50602,
+            5.33297
+          ],
+          [
+            -87.27226,
+            5.33297
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 287667,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Costa Rica (2)"
+  },
+  {
+    "a_attr": {"title": "CIV 192779 Côte d'Ivoire (Côte d\u2019Ivoire) 2018-02-13 02:07:49+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -8.60173,
+            4.16212
+          ],
+          [
+            -8.60173,
+            10.7402
+          ],
+          [
+            -2.49303,
+            10.7402
+          ],
+          [
+            -2.49303,
+            4.16212
+          ],
+          [
+            -8.60173,
+            4.16212
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192779,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Côte d'Ivoire (2)"
+  },
+  {
+    "a_attr": {"title": "HRV 214885 Croatia (Hrvatska) 2018-02-13 02:44:29+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            13.21048,
+            42.1766
+          ],
+          [
+            13.21048,
+            46.55503
+          ],
+          [
+            19.44708,
+            46.55503
+          ],
+          [
+            19.44708,
+            42.1766
+          ],
+          [
+            13.21048,
+            42.1766
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 214885,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Croatia (2)"
+  },
+  {
+    "a_attr": {"title": "CUB 307833 Cuba (Cuba) 2018-02-13 02:12:02+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -85.16797,
+            19.62753
+          ],
+          [
+            -85.16797,
+            23.4817
+          ],
+          [
+            -73.919,
+            23.4817
+          ],
+          [
+            -73.919,
+            19.62753
+          ],
+          [
+            -85.16797,
+            19.62753
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 307833,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Cuba (2)"
+  },
+  {
+    "a_attr": {"title": "CYP 307787 Cyprus (Κύπρος - Kıbrıs) 2018-02-13 02:12:08+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            32.02276,
+            34.43837
+          ],
+          [
+            32.02276,
+            35.91325
+          ],
+          [
+            34.85532,
+            35.91325
+          ],
+          [
+            34.85532,
+            34.43837
+          ],
+          [
+            32.02276,
+            34.43837
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 307787,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Cyprus (2)"
+  },
+  {
+    "a_attr": {"title": "CZE 51684 Czechia (Česko) 2018-02-13 02:26:12+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            12.09059,
+            48.55181
+          ],
+          [
+            12.09059,
+            51.0557
+          ],
+          [
+            18.85922,
+            51.0557
+          ],
+          [
+            18.85922,
+            48.55181
+          ],
+          [
+            12.09059,
+            48.55181
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 51684,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Czechia (2)"
+  },
+  {
+    "a_attr": {"title": "COD 192795 Democratic Republic of the Congo (République démocratique du Congo) 2018-02-13 02:09:57+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            12.03907,
+            -13.45904
+          ],
+          [
+            12.03907,
+            5.392
+          ],
+          [
+            31.30568,
+            5.392
+          ],
+          [
+            31.30568,
+            -13.45904
+          ],
+          [
+            12.03907,
+            -13.45904
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192795,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Democratic Republic of the Congo (2)"
+  },
+  {
+    "a_attr": {"title": "DNK 50046 Denmark (Danmark) 2018-02-13 02:26:29+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            7.71533,
+            54.45167
+          ],
+          [
+            7.71533,
+            57.95243
+          ],
+          [
+            15.55306,
+            57.95243
+          ],
+          [
+            15.55306,
+            54.45167
+          ],
+          [
+            7.71533,
+            54.45167
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 50046,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Denmark (2)"
+  },
+  {
+    "a_attr": {"title": "DJI 192801 Djibouti (Djibouti جيبوتي) 2018-02-13 02:26:21+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            41.77131,
+            10.91495
+          ],
+          [
+            41.77131,
+            12.79231
+          ],
+          [
+            43.6579,
+            12.79231
+          ],
+          [
+            43.6579,
+            10.91495
+          ],
+          [
+            41.77131,
+            10.91495
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192801,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Djibouti (2)"
+  },
+  {
+    "a_attr": {"title": "DMA 307823 Dominica (Dominica) 2018-02-13 02:26:22+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -61.68692,
+            15.00742
+          ],
+          [
+            -61.68692,
+            15.78722
+          ],
+          [
+            -61.03299,
+            15.78722
+          ],
+          [
+            -61.03299,
+            15.00742
+          ],
+          [
+            -61.68692,
+            15.00742
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 307823,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Dominica (2)"
+  },
+  {
+    "a_attr": {"title": "DOM 307828 Dominican Republic (República Dominicana) 2018-02-13 02:26:40+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -72.05747,
+            17.27017
+          ],
+          [
+            -72.05747,
+            21.30343
+          ],
+          [
+            -68.11015,
+            21.30343
+          ],
+          [
+            -68.11015,
+            17.27017
+          ],
+          [
+            -72.05747,
+            17.27017
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 307828,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Dominican Republic (2)"
+  },
+  {
+    "a_attr": {"title": "TLS 305142 East Timor (Timór Lorosa'e) 2018-02-13 04:19:12+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            124.04157,
+            -9.56428
+          ],
+          [
+            124.04157,
+            -8.08955
+          ],
+          [
+            127.53354,
+            -8.08955
+          ],
+          [
+            127.53354,
+            -9.56428
+          ],
+          [
+            124.04157,
+            -9.56428
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 305142,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "East Timor (2)"
+  },
+  {
+    "a_attr": {"title": "ECU 108089 Ecuador (Ecuador) 2018-02-13 02:27:57+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -92.20724,
+            -5.01593
+          ],
+          [
+            -92.20724,
+            1.8836
+          ],
+          [
+            -75.1925,
+            1.8836
+          ],
+          [
+            -75.1925,
+            -5.01593
+          ],
+          [
+            -92.20724,
+            -5.01593
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 108089,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Ecuador (2)"
+  },
+  {
+    "a_attr": {"title": "EGY 1473947 Egypt (مصر) 2018-02-13 02:28:02+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            24.64991,
+            22
+          ],
+          [
+            24.64991,
+            31.83309
+          ],
+          [
+            37.11535,
+            31.83309
+          ],
+          [
+            37.11535,
+            22
+          ],
+          [
+            24.64991,
+            22
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1473947,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Egypt (2)"
+  },
+  {
+    "a_attr": {"title": "SLV 1520612 El Salvador (El Salvador) 2018-02-13 04:10:29+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -90.1791,
+            12.97605
+          ],
+          [
+            -90.1791,
+            14.45105
+          ],
+          [
+            -87.63514,
+            14.45105
+          ],
+          [
+            -87.63514,
+            12.97605
+          ],
+          [
+            -90.1791,
+            12.97605
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1520612,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "El Salvador (2)"
+  },
+  {
+    "a_attr": {"title": "GNQ 192791 Equatorial Guinea (Guinea Ecuatorial) 2018-02-13 02:41:42+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            5.41729,
+            -1.67322
+          ],
+          [
+            5.41729,
+            3.989
+          ],
+          [
+            11.35986,
+            3.989
+          ],
+          [
+            11.35986,
+            -1.67322
+          ],
+          [
+            5.41729,
+            -1.67322
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192791,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Equatorial Guinea (2)"
+  },
+  {
+    "a_attr": {"title": "ERI 296961 Eritrea (ኤርትራ إرتريا) 2018-02-13 02:28:13+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            36.43337,
+            12.35482
+          ],
+          [
+            36.43337,
+            18.07099
+          ],
+          [
+            43.30017,
+            18.07099
+          ],
+          [
+            43.30017,
+            12.35482
+          ],
+          [
+            36.43337,
+            12.35482
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 296961,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Eritrea (2)"
+  },
+  {
+    "a_attr": {"title": "EST 79510 Estonia (Eesti) 2018-02-13 02:36:07+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            21.38261,
+            57.5093
+          ],
+          [
+            21.38261,
+            59.93838
+          ],
+          [
+            28.21002,
+            59.93838
+          ],
+          [
+            28.21002,
+            57.5093
+          ],
+          [
+            21.38261,
+            57.5093
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 79510,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Estonia (2)"
+  },
+  {
+    "a_attr": {"title": "ETH 192800 Ethiopia (ኢትዮጵያ) 2018-02-13 02:36:42+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            32.99758,
+            3.39745
+          ],
+          [
+            32.99758,
+            14.89447
+          ],
+          [
+            47.98238,
+            14.89447
+          ],
+          [
+            47.98238,
+            3.39745
+          ],
+          [
+            32.99758,
+            3.39745
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192800,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Ethiopia (2)"
+  },
+  {
+    "a_attr": {"title": "FLK 2185374 Falkland Islands (Falkland Islands) 2018-02-13 02:36:44+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -61.77268,
+            -53.11868
+          ],
+          [
+            -61.77268,
+            -50.7973
+          ],
+          [
+            -57.36624,
+            -50.7973
+          ],
+          [
+            -57.36624,
+            -53.11868
+          ],
+          [
+            -61.77268,
+            -53.11868
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2185374,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Falkland Islands (2)"
+  },
+  {
+    "a_attr": {"title": "FRO 52939 Faroe Islands (Føroyar) 2018-02-13 02:36:46+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -7.79838,
+            61.2881
+          ],
+          [
+            -7.79838,
+            62.44762
+          ],
+          [
+            -6.14133,
+            62.44762
+          ],
+          [
+            -6.14133,
+            61.2881
+          ],
+          [
+            -7.79838,
+            61.2881
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 52939,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Faroe Islands (2)"
+  },
+  {
+    "a_attr": {"title": "FSM 571802 Federated States of Micronesia (Micronesia) 2018-02-13 02:39:35+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            137.22345,
+            0.827
+          ],
+          [
+            137.22345,
+            10.291
+          ],
+          [
+            163.23641,
+            10.291
+          ],
+          [
+            163.23641,
+            0.827
+          ],
+          [
+            137.22345,
+            0.827
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 571802,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Federated States of Micronesia (2)"
+  },
+  {
+    "a_attr": {"title": "FJI 571747 Fiji (Viti) 2018-02-13 02:36:43+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -180,
+            -21.94343
+          ],
+          [
+            -180,
+            -12.26139
+          ],
+          [
+            180,
+            -12.26139
+          ],
+          [
+            180,
+            -21.94343
+          ],
+          [
+            -180,
+            -21.94343
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 571747,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Fiji (2)"
+  },
+  {
+    "a_attr": {"title": "FIN 54224 Finland (Suomi) 2018-02-13 06:20:37+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            19.08321,
+            59.45416
+          ],
+          [
+            19.08321,
+            70.09229
+          ],
+          [
+            31.58671,
+            70.09229
+          ],
+          [
+            31.58671,
+            59.45416
+          ],
+          [
+            19.08321,
+            59.45416
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 54224,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Finland (2)"
+  },
+  {
+    "a_attr": {"title": "FRA 2202162 France (France) 2018-02-13 06:01:09+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -178.38737,
+            -50.21872
+          ],
+          [
+            -178.38737,
+            51.26832
+          ],
+          [
+            172.30572,
+            51.26832
+          ],
+          [
+            172.30572,
+            -50.21872
+          ],
+          [
+            -178.38737,
+            -50.21872
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2202162,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "France (2)"
+  },
+  {
+    "a_attr": {"title": "GAB 192793 Gabon (Gabon) 2018-02-13 02:39:47+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            8.50022,
+            -4.10123
+          ],
+          [
+            8.50022,
+            2.31822
+          ],
+          [
+            14.53944,
+            2.31822
+          ],
+          [
+            14.53944,
+            -4.10123
+          ],
+          [
+            8.50022,
+            -4.10123
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192793,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Gabon (2)"
+  },
+  {
+    "a_attr": {"title": "GMB 192774 Gambia (Gambia) 2018-02-13 02:41:30+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -17.02883,
+            13.061
+          ],
+          [
+            -17.02883,
+            13.82531
+          ],
+          [
+            -13.79778,
+            13.82531
+          ],
+          [
+            -13.79778,
+            13.061
+          ],
+          [
+            -17.02883,
+            13.061
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192774,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Gambia (2)"
+  },
+  {
+    "a_attr": {"title": "GEO 28699 Georgia (საქართველო) 2018-02-13 02:40:03+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            39.88448,
+            41.05529
+          ],
+          [
+            39.88448,
+            43.58643
+          ],
+          [
+            46.73654,
+            43.58643
+          ],
+          [
+            46.73654,
+            41.05529
+          ],
+          [
+            39.88448,
+            41.05529
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 28699,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Georgia (2)"
+  },
+  {
+    "a_attr": {"title": "DEU 51477 Germany (Deutschland) 2018-02-13 01:22:27+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            5.86632,
+            47.27011
+          ],
+          [
+            5.86632,
+            55.09916
+          ],
+          [
+            15.04193,
+            55.09916
+          ],
+          [
+            15.04193,
+            47.27011
+          ],
+          [
+            5.86632,
+            47.27011
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 51477,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Germany (2)"
+  },
+  {
+    "a_attr": {"title": "GHA 192781 Ghana (Ghana) 2018-02-13 02:40:35+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -3.26079,
+            4.53925
+          ],
+          [
+            -3.26079,
+            11.17486
+          ],
+          [
+            1.27329,
+            11.17486
+          ],
+          [
+            1.27329,
+            4.53925
+          ],
+          [
+            -3.26079,
+            4.53925
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192781,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Ghana (2)"
+  },
+  {
+    "a_attr": {"title": "GIB 1278736 Gibraltar (Gibraltar) 2018-02-13 02:40:36+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -5.40066,
+            36.05875
+          ],
+          [
+            -5.40066,
+            36.15504
+          ],
+          [
+            -5.27666,
+            36.15504
+          ],
+          [
+            -5.27666,
+            36.05875
+          ],
+          [
+            -5.40066,
+            36.05875
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1278736,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Gibraltar (2)"
+  },
+  {
+    "a_attr": {"title": "GRC 192307 Greece (Ελλάδα) 2018-02-13 02:42:34+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            19.24779,
+            34.70061
+          ],
+          [
+            19.24779,
+            41.74889
+          ],
+          [
+            29.7297,
+            41.74889
+          ],
+          [
+            29.7297,
+            34.70061
+          ],
+          [
+            19.24779,
+            34.70061
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192307,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Greece (2)"
+  },
+  {
+    "a_attr": {"title": "GRL 2184073 Greenland (Kalaallit Nunaat) 2018-02-13 02:42:40+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -74.12504,
+            59.51539
+          ],
+          [
+            -74.12504,
+            83.87517
+          ],
+          [
+            -10.02888,
+            83.87517
+          ],
+          [
+            -10.02888,
+            59.51539
+          ],
+          [
+            -74.12504,
+            59.51539
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2184073,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Greenland (2)"
+  },
+  {
+    "a_attr": {"title": "GRD 550727 Grenada (Grenada) 2018-02-13 02:42:36+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -62.00659,
+            11.786
+          ],
+          [
+            -62.00659,
+            12.59665
+          ],
+          [
+            -61.17321,
+            12.59665
+          ],
+          [
+            -61.17321,
+            11.786
+          ],
+          [
+            -62.00659,
+            11.786
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 550727,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Grenada (2)"
+  },
+  {
+    "a_attr": {"title": "GTM 1521463 Guatemala (Guatemala) 2018-02-13 02:42:56+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -92.31052,
+            13.63458
+          ],
+          [
+            -92.31052,
+            17.81659
+          ],
+          [
+            -88.17558,
+            17.81659
+          ],
+          [
+            -88.17558,
+            13.63458
+          ],
+          [
+            -92.31052,
+            13.63458
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1521463,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Guatemala (2)"
+  },
+  {
+    "a_attr": {"title": "GGY 270009 Guernsey (Guernsey) 2018-02-13 02:40:05+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -3.0204,
+            49.22083
+          ],
+          [
+            -3.0204,
+            49.94161
+          ],
+          [
+            -2.05088,
+            49.94161
+          ],
+          [
+            -2.05088,
+            49.22083
+          ],
+          [
+            -3.0204,
+            49.22083
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 270009,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Guernsey (2)"
+  },
+  {
+    "a_attr": {"title": "GIN 192778 Guinea (Guinée) 2018-02-13 02:41:25+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -15.56805,
+            7.1906
+          ],
+          [
+            -15.56805,
+            12.67563
+          ],
+          [
+            -7.6382,
+            12.67563
+          ],
+          [
+            -7.6382,
+            7.1906
+          ],
+          [
+            -15.56805,
+            7.1906
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192778,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Guinea (2)"
+  },
+  {
+    "a_attr": {"title": "GNB 192776 Guinea-Bissau (Guiné-Bissau) 2018-02-13 02:41:39+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -16.89452,
+            10.65142
+          ],
+          [
+            -16.89452,
+            12.68624
+          ],
+          [
+            -13.63488,
+            12.68624
+          ],
+          [
+            -13.63488,
+            10.65142
+          ],
+          [
+            -16.89452,
+            10.65142
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192776,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Guinea-Bissau (2)"
+  },
+  {
+    "a_attr": {"title": "GUY 287083 Guyana (Guyana) 2018-02-13 02:43:13+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -61.4149,
+            1.171
+          ],
+          [
+            -61.4149,
+            8.60388
+          ],
+          [
+            -56.46895,
+            8.60388
+          ],
+          [
+            -56.46895,
+            1.171
+          ],
+          [
+            -61.4149,
+            1.171
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 287083,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Guyana (2)"
+  },
+  {
+    "a_attr": {"title": "HTI 307829 Haiti (Ayiti) 2018-02-13 02:44:38+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -74.65754,
+            17.90993
+          ],
+          [
+            -74.65754,
+            20.21814
+          ],
+          [
+            -71.62213,
+            20.21814
+          ],
+          [
+            -71.62213,
+            17.90993
+          ],
+          [
+            -74.65754,
+            17.90993
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 307829,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Haiti (2)"
+  },
+  {
+    "a_attr": {"title": "HND 287670 Honduras (Honduras) 2018-02-13 02:43:42+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -89.35682,
+            12.98085
+          ],
+          [
+            -89.35682,
+            17.61953
+          ],
+          [
+            -82.17296,
+            17.61953
+          ],
+          [
+            -82.17296,
+            12.98085
+          ],
+          [
+            -89.35682,
+            12.98085
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 287670,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Honduras (2)"
+  },
+  {
+    "a_attr": {"title": "HUN 21335 Hungary (Magyarország) 2018-02-13 02:45:52+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            16.11389,
+            45.73713
+          ],
+          [
+            16.11389,
+            48.58526
+          ],
+          [
+            22.89771,
+            48.58526
+          ],
+          [
+            22.89771,
+            45.73713
+          ],
+          [
+            16.11389,
+            45.73713
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 21335,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Hungary (2)"
+  },
+  {
+    "a_attr": {"title": "ISL 299133 Iceland (Ísland) 2018-02-13 02:57:11+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -25.01351,
+            63.08592
+          ],
+          [
+            -25.01351,
+            67.353
+          ],
+          [
+            -12.80462,
+            67.353
+          ],
+          [
+            -12.80462,
+            63.08592
+          ],
+          [
+            -25.01351,
+            63.08592
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 299133,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Iceland (2)"
+  },
+  {
+    "a_attr": {"title": "IND 304716 India (India) 2018-02-13 02:54:04+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            68.11138,
+            6.55461
+          ],
+          [
+            68.11138,
+            35.67455
+          ],
+          [
+            97.39556,
+            35.67455
+          ],
+          [
+            97.39556,
+            6.55461
+          ],
+          [
+            68.11138,
+            6.55461
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 304716,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "India (2)"
+  },
+  {
+    "a_attr": {"title": "IDN 304751 Indonesia (Indonesia) 2018-02-13 02:49:29+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            94.77171,
+            -11.20857
+          ],
+          [
+            94.77171,
+            6.27445
+          ],
+          [
+            141.01944,
+            6.27445
+          ],
+          [
+            141.01944,
+            -11.20857
+          ],
+          [
+            94.77171,
+            -11.20857
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 304751,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Indonesia (2)"
+  },
+  {
+    "a_attr": {"title": "IRN 304938 Iran (\u200fایران\u200e) 2018-02-13 02:56:06+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            44.03189,
+            24.84651
+          ],
+          [
+            44.03189,
+            39.78165
+          ],
+          [
+            63.33327,
+            39.78165
+          ],
+          [
+            63.33327,
+            24.84651
+          ],
+          [
+            44.03189,
+            24.84651
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 304938,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Iran (2)"
+  },
+  {
+    "a_attr": {"title": "IRQ 304934 Iraq (العراق) 2018-02-13 02:56:43+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            38.79367,
+            29.06121
+          ],
+          [
+            38.79367,
+            37.38093
+          ],
+          [
+            48.84127,
+            37.38093
+          ],
+          [
+            48.84127,
+            29.06121
+          ],
+          [
+            38.79367,
+            29.06121
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 304934,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Iraq (2)"
+  },
+  {
+    "a_attr": {"title": "IRL 62273 Ireland (Ireland) 2018-02-13 07:44:34+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -11.01338,
+            51.222
+          ],
+          [
+            -11.01338,
+            55.636
+          ],
+          [
+            -5.65824,
+            55.636
+          ],
+          [
+            -5.65824,
+            51.222
+          ],
+          [
+            -11.01338,
+            51.222
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 62273,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Ireland (2)"
+  },
+  {
+    "a_attr": {"title": "IMN 62269 Isle of Man (Isle of Man) 2018-02-13 02:49:35+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -5.17073,
+            53.845
+          ],
+          [
+            -5.17073,
+            54.55343
+          ],
+          [
+            -3.96541,
+            54.55343
+          ],
+          [
+            -3.96541,
+            53.845
+          ],
+          [
+            -5.17073,
+            53.845
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 62269,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Isle of Man (2)"
+  },
+  {
+    "a_attr": {"title": "ISR 1473946 Israel (מדינת ישראל) 2018-02-13 02:57:27+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            34.2675,
+            29.45338
+          ],
+          [
+            34.2675,
+            33.33563
+          ],
+          [
+            35.89502,
+            33.33563
+          ],
+          [
+            35.89502,
+            29.45338
+          ],
+          [
+            34.2675,
+            29.45338
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1473946,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Israel (2)"
+  },
+  {
+    "a_attr": {"title": "ITA 365331 Italy (Italia) 2018-02-13 03:01:53+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            6.62727,
+            35.28896
+          ],
+          [
+            6.62727,
+            47.09215
+          ],
+          [
+            18.78447,
+            47.09215
+          ],
+          [
+            18.78447,
+            35.28896
+          ],
+          [
+            6.62727,
+            35.28896
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 365331,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Italy (2)"
+  },
+  {
+    "a_attr": {"title": "JAM 555017 Jamaica (Jamaica) 2018-02-13 03:01:55+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -78.57824,
+            16.58994
+          ],
+          [
+            -78.57824,
+            18.72564
+          ],
+          [
+            -75.75411,
+            18.72564
+          ],
+          [
+            -75.75411,
+            16.58994
+          ],
+          [
+            -78.57824,
+            16.58994
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 555017,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Jamaica (2)"
+  },
+  {
+    "a_attr": {"title": "JPN 382313 Japan (日本) 2018-02-13 03:06:15+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            122.71418,
+            20.21458
+          ],
+          [
+            122.71418,
+            45.7112
+          ],
+          [
+            154.20554,
+            45.7112
+          ],
+          [
+            154.20554,
+            20.21458
+          ],
+          [
+            122.71418,
+            20.21458
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 382313,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Japan (2)"
+  },
+  {
+    "a_attr": {"title": "JEY 367988 Jersey (Jersey) 2018-02-13 03:01:56+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -2.55917,
+            48.87217
+          ],
+          [
+            -2.55917,
+            49.4605
+          ],
+          [
+            -1.83333,
+            49.4605
+          ],
+          [
+            -1.83333,
+            48.87217
+          ],
+          [
+            -2.55917,
+            48.87217
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 367988,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Jersey (2)"
+  },
+  {
+    "a_attr": {"title": "JOR 184818 Jordan (الأردن) 2018-02-13 03:02:06+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            34.88444,
+            29.1834
+          ],
+          [
+            34.88444,
+            33.37506
+          ],
+          [
+            39.3013,
+            33.37506
+          ],
+          [
+            39.3013,
+            29.1834
+          ],
+          [
+            34.88444,
+            29.1834
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 184818,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Jordan (2)"
+  },
+  {
+    "a_attr": {"title": "KAZ 214665 Kazakhstan (Қазақстан) 2018-02-13 03:07:38+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            46.49322,
+            40.56865
+          ],
+          [
+            46.49322,
+            55.44217
+          ],
+          [
+            87.31563,
+            55.44217
+          ],
+          [
+            87.31563,
+            40.56865
+          ],
+          [
+            46.49322,
+            40.56865
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 214665,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Kazakhstan (2)"
+  },
+  {
+    "a_attr": {"title": "KEN 192798 Kenya (Kenya) 2018-02-13 03:07:48+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            33.9099,
+            -4.89952
+          ],
+          [
+            33.9099,
+            4.62
+          ],
+          [
+            41.89958,
+            4.62
+          ],
+          [
+            41.89958,
+            -4.89952
+          ],
+          [
+            33.9099,
+            -4.89952
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192798,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Kenya (2)"
+  },
+  {
+    "a_attr": {"title": "KIR 571178 Kiribati (Kiribati) 2018-02-13 03:11:19+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -174.74336,
+            -11.646
+          ],
+          [
+            -174.74336,
+            4.9
+          ],
+          [
+            177.04791,
+            4.9
+          ],
+          [
+            177.04791,
+            -11.646
+          ],
+          [
+            -174.74336,
+            -11.646
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 571178,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Kiribati (2)"
+  },
+  {
+    "a_attr": {"title": "XXK 2088990 Kosovo (Kosovë;Косово) 2018-02-13 04:28:07+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            20.01406,
+            41.8577
+          ],
+          [
+            20.01406,
+            43.26746
+          ],
+          [
+            21.78942,
+            43.26746
+          ],
+          [
+            21.78942,
+            41.8577
+          ],
+          [
+            20.01406,
+            41.8577
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2088990,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Kosovo (2)"
+  },
+  {
+    "a_attr": {"title": "KWT 305099 Kuwait (\u200fالكويت\u200e) 2018-02-13 03:12:03+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            46.55268,
+            28.52436
+          ],
+          [
+            46.55268,
+            30.10381
+          ],
+          [
+            49.00468,
+            30.10381
+          ],
+          [
+            49.00468,
+            28.52436
+          ],
+          [
+            46.55268,
+            28.52436
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 305099,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Kuwait (2)"
+  },
+  {
+    "a_attr": {"title": "KGZ 178009 Kyrgyzstan (Кыргызстан) 2018-02-13 03:08:24+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            69.26495,
+            39.17284
+          ],
+          [
+            69.26495,
+            43.2668
+          ],
+          [
+            80.22958,
+            43.2668
+          ],
+          [
+            80.22958,
+            39.17284
+          ],
+          [
+            69.26495,
+            39.17284
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 178009,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Kyrgyzstan (2)"
+  },
+  {
+    "a_attr": {"title": "LAO 49903 Laos (ປະເທດລາວ) 2018-02-13 03:12:54+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            100.08432,
+            13.90968
+          ],
+          [
+            100.08432,
+            22.50867
+          ],
+          [
+            107.635,
+            22.50867
+          ],
+          [
+            107.635,
+            13.90968
+          ],
+          [
+            100.08432,
+            13.90968
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 49903,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Laos (2)"
+  },
+  {
+    "a_attr": {"title": "LVA 72594 Latvia (Latvija) 2018-02-13 03:16:39+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            20.67154,
+            55.67465
+          ],
+          [
+            20.67154,
+            58.08557
+          ],
+          [
+            28.24149,
+            58.08557
+          ],
+          [
+            28.24149,
+            55.67465
+          ],
+          [
+            20.67154,
+            55.67465
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 72594,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Latvia (2)"
+  },
+  {
+    "a_attr": {"title": "LBN 184843 Lebanon (لبنان) 2018-02-13 03:13:01+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            34.88257,
+            33.04799
+          ],
+          [
+            34.88257,
+            34.69235
+          ],
+          [
+            36.625,
+            34.69235
+          ],
+          [
+            36.625,
+            33.04799
+          ],
+          [
+            34.88257,
+            33.04799
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 184843,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Lebanon (2)"
+  },
+  {
+    "a_attr": {"title": "LSO 2093234 Lesotho (Lesotho) 2018-02-13 03:14:13+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            27.01146,
+            -30.67728
+          ],
+          [
+            27.01146,
+            -28.57062
+          ],
+          [
+            29.45571,
+            -28.57062
+          ],
+          [
+            29.45571,
+            -30.67728
+          ],
+          [
+            27.01146,
+            -30.67728
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2093234,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Lesotho (2)"
+  },
+  {
+    "a_attr": {"title": "LBR 192780 Liberia (Liberia) 2018-02-13 03:13:25+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -11.60808,
+            4.15559
+          ],
+          [
+            -11.60808,
+            8.55199
+          ],
+          [
+            -7.36732,
+            8.55199
+          ],
+          [
+            -7.36732,
+            4.15559
+          ],
+          [
+            -11.60808,
+            4.15559
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192780,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Liberia (2)"
+  },
+  {
+    "a_attr": {"title": "LBY 192758 Libya (ⵍⵉⴱⵢⴰ ليبيا) 2018-02-13 03:13:32+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            9.39108,
+            19.50081
+          ],
+          [
+            9.39108,
+            33.35459
+          ],
+          [
+            25.37706,
+            33.35459
+          ],
+          [
+            25.37706,
+            19.50081
+          ],
+          [
+            9.39108,
+            19.50081
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192758,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Libya (2)"
+  },
+  {
+    "a_attr": {"title": "LIE 1155955 Liechtenstein (Liechtenstein) 2018-02-13 03:13:39+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            9.47167,
+            47.04843
+          ],
+          [
+            9.47167,
+            47.27058
+          ],
+          [
+            9.63571,
+            47.27058
+          ],
+          [
+            9.63571,
+            47.04843
+          ],
+          [
+            9.47167,
+            47.04843
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1155955,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Liechtenstein (2)"
+  },
+  {
+    "a_attr": {"title": "LTU 72596 Lithuania (Lietuva) 2018-02-13 03:15:29+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            20.65378,
+            53.89679
+          ],
+          [
+            20.65378,
+            56.45042
+          ],
+          [
+            26.83552,
+            56.45042
+          ],
+          [
+            26.83552,
+            53.89679
+          ],
+          [
+            20.65378,
+            53.89679
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 72596,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Lithuania (2)"
+  },
+  {
+    "a_attr": {"title": "LUX 2171347 Luxembourg (Lëtzebuerg) 2018-02-13 03:15:56+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            5.7357,
+            49.44785
+          ],
+          [
+            5.7357,
+            50.18277
+          ],
+          [
+            6.53125,
+            50.18277
+          ],
+          [
+            6.53125,
+            49.44785
+          ],
+          [
+            5.7357,
+            49.44785
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2171347,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Luxembourg (2)"
+  },
+  {
+    "a_attr": {"title": "MKD 53293 Macedonia (Македонија) 2018-02-13 03:25:33+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            20.4529,
+            40.85366
+          ],
+          [
+            20.4529,
+            42.37354
+          ],
+          [
+            23.03405,
+            42.37354
+          ],
+          [
+            23.03405,
+            40.85366
+          ],
+          [
+            20.4529,
+            40.85366
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 53293,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Macedonia (2)"
+  },
+  {
+    "a_attr": {"title": "MDG 447325 Madagascar (Madagasikara) 2018-02-13 03:17:47+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            42.96801,
+            -25.78402
+          ],
+          [
+            42.96801,
+            -11.73289
+          ],
+          [
+            50.67273,
+            -11.73289
+          ],
+          [
+            50.67273,
+            -25.78402
+          ],
+          [
+            42.96801,
+            -25.78402
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 447325,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Madagascar (2)"
+  },
+  {
+    "a_attr": {"title": "MWI 195290 Malawi (Malawi) 2018-02-13 03:29:24+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            32.67036,
+            -17.12952
+          ],
+          [
+            32.67036,
+            -9.36833
+          ],
+          [
+            35.91857,
+            -9.36833
+          ],
+          [
+            35.91857,
+            -17.12952
+          ],
+          [
+            32.67036,
+            -17.12952
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 195290,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Malawi (2)"
+  },
+  {
+    "a_attr": {"title": "MYS 2108121 Malaysia (Malaysia) 2018-02-13 03:30:00+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            98.93721,
+            0.85382
+          ],
+          [
+            98.93721,
+            7.5112
+          ],
+          [
+            119.43909,
+            7.5112
+          ],
+          [
+            119.43909,
+            0.85382
+          ],
+          [
+            98.93721,
+            0.85382
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2108121,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Malaysia (2)"
+  },
+  {
+    "a_attr": {"title": "MDV 536773 Maldives (ދިވެހިރާއްޖެ) 2018-02-13 03:17:49+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            72.35542,
+            -0.90749
+          ],
+          [
+            72.35542,
+            7.31062
+          ],
+          [
+            73.9701,
+            7.31062
+          ],
+          [
+            73.9701,
+            -0.90749
+          ],
+          [
+            72.35542,
+            -0.90749
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 536773,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Maldives (2)"
+  },
+  {
+    "a_attr": {"title": "MLI 192785 Mali (Mali) 2018-02-13 03:26:12+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -12.24028,
+            10.14781
+          ],
+          [
+            -12.24028,
+            25.00108
+          ],
+          [
+            4.26738,
+            25.00108
+          ],
+          [
+            4.26738,
+            10.14781
+          ],
+          [
+            -12.24028,
+            10.14781
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192785,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Mali (2)"
+  },
+  {
+    "a_attr": {"title": "MLT 365307 Malta (Malta) 2018-02-13 03:26:13+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            13.93242,
+            35.60297
+          ],
+          [
+            13.93242,
+            36.28527
+          ],
+          [
+            14.8268,
+            36.28527
+          ],
+          [
+            14.8268,
+            35.60297
+          ],
+          [
+            13.93242,
+            35.60297
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 365307,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Malta (2)"
+  },
+  {
+    "a_attr": {"title": "MHL 571771 Marshall Islands (M̧ajeļ) 2018-02-13 03:24:56+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            160.59493,
+            4.374
+          ],
+          [
+            160.59493,
+            14.873
+          ],
+          [
+            172.3737,
+            14.873
+          ],
+          [
+            172.3737,
+            4.374
+          ],
+          [
+            160.59493,
+            4.374
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 571771,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Marshall Islands (2)"
+  },
+  {
+    "a_attr": {"title": "MRT 192763 Mauritania (موريتانيا) 2018-02-13 03:28:48+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -17.06808,
+            14.72099
+          ],
+          [
+            -17.06808,
+            27.31494
+          ],
+          [
+            -4.83333,
+            27.31494
+          ],
+          [
+            -4.83333,
+            14.72099
+          ],
+          [
+            -17.06808,
+            14.72099
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192763,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Mauritania (2)"
+  },
+  {
+    "a_attr": {"title": "MUS 535828 Mauritius (Mauritius) 2018-02-13 03:28:54+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            56.38252,
+            -20.725
+          ],
+          [
+            56.38252,
+            -10.138
+          ],
+          [
+            63.71513,
+            -10.138
+          ],
+          [
+            63.71513,
+            -20.725
+          ],
+          [
+            56.38252,
+            -20.725
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 535828,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Mauritius (2)"
+  },
+  {
+    "a_attr": {"title": "MEX 114686 Mexico (México) 2018-02-13 03:22:14+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -118.59919,
+            14.38862
+          ],
+          [
+            -118.59919,
+            32.71866
+          ],
+          [
+            -86.49327,
+            32.71866
+          ],
+          [
+            -86.49327,
+            14.38862
+          ],
+          [
+            -118.59919,
+            14.38862
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 114686,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Mexico (2)"
+  },
+  {
+    "a_attr": {"title": "MDA 58974 Moldova (Moldova) 2018-02-13 03:17:40+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            26.61628,
+            45.46742
+          ],
+          [
+            26.61628,
+            48.49187
+          ],
+          [
+            30.16351,
+            48.49187
+          ],
+          [
+            30.16351,
+            45.46742
+          ],
+          [
+            26.61628,
+            45.46742
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 58974,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Moldova (2)"
+  },
+  {
+    "a_attr": {"title": "MCO 1124039 Monaco (Monaco) 2018-02-13 03:17:26+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            7.40903,
+            43.51633
+          ],
+          [
+            7.40903,
+            43.75193
+          ],
+          [
+            7.53317,
+            43.75193
+          ],
+          [
+            7.53317,
+            43.51633
+          ],
+          [
+            7.40903,
+            43.51633
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1124039,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Monaco (2)"
+  },
+  {
+    "a_attr": {"title": "MNG 161033 Mongolia (Монгол улс) 2018-02-13 03:27:56+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            87.73762,
+            41.58042
+          ],
+          [
+            87.73762,
+            52.1496
+          ],
+          [
+            119.93195,
+            52.1496
+          ],
+          [
+            119.93195,
+            41.58042
+          ],
+          [
+            87.73762,
+            41.58042
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 161033,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Mongolia (2)"
+  },
+  {
+    "a_attr": {"title": "MNE 53296 Montenegro (Crna Gora / Црна Гора) 2018-02-13 03:27:30+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            18.41958,
+            41.7496
+          ],
+          [
+            18.41958,
+            43.55851
+          ],
+          [
+            20.35616,
+            43.55851
+          ],
+          [
+            20.35616,
+            41.7496
+          ],
+          [
+            18.41958,
+            41.7496
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 53296,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Montenegro (2)"
+  },
+  {
+    "a_attr": {"title": "MSR 537257 Montserrat (Montserrat) 2018-02-13 03:28:49+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -62.45067,
+            16.475
+          ],
+          [
+            -62.45067,
+            17.0153
+          ],
+          [
+            -61.93538,
+            17.0153
+          ],
+          [
+            -61.93538,
+            16.475
+          ],
+          [
+            -62.45067,
+            16.475
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 537257,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Montserrat (2)"
+  },
+  {
+    "a_attr": {"title": "MAR 3630439 Morocco (Maroc ⵍⵎⵖⵔⵉⴱ المغرب) 2018-02-13 03:17:24+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -17.25515,
+            21.33653
+          ],
+          [
+            -17.25515,
+            36.05053
+          ],
+          [
+            -0.99843,
+            36.05053
+          ],
+          [
+            -0.99843,
+            21.33653
+          ],
+          [
+            -17.25515,
+            21.33653
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 3630439,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Morocco (2)"
+  },
+  {
+    "a_attr": {"title": "MOZ 195273 Mozambique (Moçambique) 2018-02-13 03:28:34+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            30.21318,
+            -26.92094
+          ],
+          [
+            30.21318,
+            -10.32521
+          ],
+          [
+            41.05459,
+            -10.32521
+          ],
+          [
+            41.05459,
+            -26.92094
+          ],
+          [
+            30.21318,
+            -26.92094
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 195273,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Mozambique (2)"
+  },
+  {
+    "a_attr": {"title": "MMR 50371 Myanmar (မြန်မာ) 2018-02-13 03:27:15+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            92.17194,
+            9.5375
+          ],
+          [
+            92.17194,
+            28.54783
+          ],
+          [
+            101.17008,
+            28.54783
+          ],
+          [
+            101.17008,
+            9.5375
+          ],
+          [
+            92.17194,
+            9.5375
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 50371,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Myanmar (2)"
+  },
+  {
+    "a_attr": {"title": "NAM 195266 Namibia (Namibia) 2018-02-13 03:30:49+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            11.52804,
+            -28.96945
+          ],
+          [
+            11.52804,
+            -16.96349
+          ],
+          [
+            25.26166,
+            -16.96349
+          ],
+          [
+            25.26166,
+            -28.96945
+          ],
+          [
+            11.52804,
+            -28.96945
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 195266,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Namibia (2)"
+  },
+  {
+    "a_attr": {"title": "NRU 571804 Nauru (Naoero) 2018-02-13 03:37:33+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            166.70999,
+            -0.753
+          ],
+          [
+            166.70999,
+            -0.303
+          ],
+          [
+            167.15973,
+            -0.303
+          ],
+          [
+            167.15973,
+            -0.753
+          ],
+          [
+            166.70999,
+            -0.753
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 571804,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Nauru (2)"
+  },
+  {
+    "a_attr": {"title": "NPL 184633 Nepal (नेपाल) 2018-02-13 03:37:31+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            80.05862,
+            26.34776
+          ],
+          [
+            80.05862,
+            30.44694
+          ],
+          [
+            88.20153,
+            30.44694
+          ],
+          [
+            88.20153,
+            26.34776
+          ],
+          [
+            80.05862,
+            26.34776
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 184633,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Nepal (2)"
+  },
+  {
+    "a_attr": {"title": "NZL 556706 New Zealand (New Zealand/Aotearoa) 2018-02-13 03:38:04+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -179.05915,
+            -52.82137
+          ],
+          [
+            -179.05915,
+            -29.03033
+          ],
+          [
+            179.36436,
+            -29.03033
+          ],
+          [
+            179.36436,
+            -52.82137
+          ],
+          [
+            -179.05915,
+            -52.82137
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 556706,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "New Zealand (2)"
+  },
+  {
+    "a_attr": {"title": "NIC 287666 Nicaragua (Nicaragua) 2018-02-13 03:32:47+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -87.90153,
+            10.70766
+          ],
+          [
+            -87.90153,
+            15.03312
+          ],
+          [
+            -82.6227,
+            15.03312
+          ],
+          [
+            -82.6227,
+            10.70766
+          ],
+          [
+            -87.90153,
+            10.70766
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 287666,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Nicaragua (2)"
+  },
+  {
+    "a_attr": {"title": "NER 192786 Niger (Niger) 2018-02-13 03:31:14+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            0.16897,
+            11.69376
+          ],
+          [
+            0.16897,
+            23.51718
+          ],
+          [
+            15.99667,
+            23.51718
+          ],
+          [
+            15.99667,
+            11.69376
+          ],
+          [
+            0.16897,
+            11.69376
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192786,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Niger (2)"
+  },
+  {
+    "a_attr": {"title": "NGA 192787 Nigeria (Nigeria) 2018-02-13 03:32:31+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            2.67693,
+            4.0691
+          ],
+          [
+            2.67693,
+            13.88565
+          ],
+          [
+            14.67801,
+            13.88565
+          ],
+          [
+            14.67801,
+            4.0691
+          ],
+          [
+            2.67693,
+            4.0691
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192787,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Nigeria (2)"
+  },
+  {
+    "a_attr": {"title": "NIU 1558556 Niue (Niuē) 2018-02-13 03:32:49+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -170.1595,
+            -19.35487
+          ],
+          [
+            -170.1595,
+            -18.75346
+          ],
+          [
+            -169.56472,
+            -18.75346
+          ],
+          [
+            -169.56472,
+            -19.35487
+          ],
+          [
+            -170.1595,
+            -19.35487
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1558556,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Niue (2)"
+  },
+  {
+    "a_attr": {"title": "PRK 192734 North Korea (조선민주주의인민공화국) 2018-02-13 04:04:57+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            124.09139,
+            37.62795
+          ],
+          [
+            124.09139,
+            43.00896
+          ],
+          [
+            130.92465,
+            43.00896
+          ],
+          [
+            130.92465,
+            37.62795
+          ],
+          [
+            124.09139,
+            37.62795
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192734,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "North Korea (2)"
+  },
+  {
+    "a_attr": {"title": "NOR 2978650 Norway (Norge) 2018-02-13 03:36:23+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -9.68481,
+            -54.654
+          ],
+          [
+            -9.68481,
+            81.02808
+          ],
+          [
+            34.68913,
+            81.02808
+          ],
+          [
+            34.68913,
+            -54.654
+          ],
+          [
+            -9.68481,
+            -54.654
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2978650,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Norway (2)"
+  },
+  {
+    "a_attr": {"title": "OMN 305138 Oman (عمان) 2018-02-13 03:38:08+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            52,
+            16.46496
+          ],
+          [
+            52,
+            26.70267
+          ],
+          [
+            60.05458,
+            26.70267
+          ],
+          [
+            60.05458,
+            16.46496
+          ],
+          [
+            52,
+            16.46496
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 305138,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Oman (2)"
+  },
+  {
+    "a_attr": {"title": "PAK 307573 Pakistan (\u200fپاکستان\u200e) 2018-02-13 03:39:20+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            60.87286,
+            23.53939
+          ],
+          [
+            60.87286,
+            37.08411
+          ],
+          [
+            77.12039,
+            37.08411
+          ],
+          [
+            77.12039,
+            23.53939
+          ],
+          [
+            60.87286,
+            23.53939
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 307573,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Pakistan (2)"
+  },
+  {
+    "a_attr": {"title": "PLW 571805 Palau (Belau) 2018-02-13 03:42:27+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            131.06855,
+            2.748
+          ],
+          [
+            131.06855,
+            8.222
+          ],
+          [
+            134.77147,
+            8.222
+          ],
+          [
+            134.77147,
+            2.748
+          ],
+          [
+            131.06855,
+            2.748
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 571805,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Palau (2)"
+  },
+  {
+    "a_attr": {"title": "PSE 1703814 Palestinian Territories (الأراضي الفلسطينية) 2018-02-13 04:08:14+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            34.06897,
+            31.22013
+          ],
+          [
+            34.06897,
+            32.55215
+          ],
+          [
+            35.57392,
+            32.55215
+          ],
+          [
+            35.57392,
+            31.22013
+          ],
+          [
+            34.06897,
+            31.22013
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1703814,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Palestinian Territories (2)"
+  },
+  {
+    "a_attr": {"title": "PAN 287668 Panama (Panamá) 2018-02-13 03:39:27+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -83.05172,
+            7.03387
+          ],
+          [
+            -83.05172,
+            9.87018
+          ],
+          [
+            -77.13938,
+            9.87018
+          ],
+          [
+            -77.13938,
+            7.03387
+          ],
+          [
+            -83.05172,
+            7.03387
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 287668,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Panama (2)"
+  },
+  {
+    "a_attr": {"title": "PNG 307866 Papua New Guinea (Papua Niugini) 2018-02-13 03:42:31+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            140.84166,
+            -11.85557
+          ],
+          [
+            140.84166,
+            -0.55736
+          ],
+          [
+            159.69272,
+            -0.55736
+          ],
+          [
+            159.69272,
+            -11.85557
+          ],
+          [
+            140.84166,
+            -11.85557
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 307866,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Papua New Guinea (2)"
+  },
+  {
+    "a_attr": {"title": "PRY 287077 Paraguay (Paraguay) 2018-02-13 04:07:57+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -62.6442,
+            -27.60639
+          ],
+          [
+            -62.6442,
+            -19.28765
+          ],
+          [
+            -54.258,
+            -19.28765
+          ],
+          [
+            -54.258,
+            -27.60639
+          ],
+          [
+            -62.6442,
+            -27.60639
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 287077,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Paraguay (2)"
+  },
+  {
+    "a_attr": {"title": "PER 288247 Peru (Perú) 2018-02-13 03:41:39+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -84.63565,
+            -20.19845
+          ],
+          [
+            -84.63565,
+            -0.03928
+          ],
+          [
+            -68.65199,
+            -0.03928
+          ],
+          [
+            -68.65199,
+            -20.19845
+          ],
+          [
+            -84.63565,
+            -20.19845
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 288247,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Peru (2)"
+  },
+  {
+    "a_attr": {"title": "PHL 443174 Philippines (Philippines) 2018-02-13 03:41:52+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            114.09521,
+            4.21581
+          ],
+          [
+            114.09521,
+            21.32178
+          ],
+          [
+            126.80726,
+            21.32178
+          ],
+          [
+            126.80726,
+            4.21581
+          ],
+          [
+            114.09521,
+            4.21581
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 443174,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Philippines (2)"
+  },
+  {
+    "a_attr": {"title": "PCN 2185375 Pitcairn Islands (Pitcairn Islands) 2018-02-13 03:39:29+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -130.80499,
+            -25.13067
+          ],
+          [
+            -130.80499,
+            -23.86558
+          ],
+          [
+            -124.71753,
+            -23.86558
+          ],
+          [
+            -124.71753,
+            -25.13067
+          ],
+          [
+            -130.80499,
+            -25.13067
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2185375,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Pitcairn Islands (2)"
+  },
+  {
+    "a_attr": {"title": "POL 49715 Poland (Polska) 2018-02-13 04:04:40+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            14.12297,
+            49.00205
+          ],
+          [
+            14.12297,
+            55.0337
+          ],
+          [
+            24.14578,
+            55.0337
+          ],
+          [
+            24.14578,
+            49.00205
+          ],
+          [
+            14.12297,
+            49.00205
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 49715,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Poland (2)"
+  },
+  {
+    "a_attr": {"title": "PRT 295480 Portugal (Portugal) 2018-02-13 04:07:16+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -31.55753,
+            29.8288
+          ],
+          [
+            -31.55753,
+            42.15431
+          ],
+          [
+            -6.18916,
+            42.15431
+          ],
+          [
+            -6.18916,
+            29.8288
+          ],
+          [
+            -31.55753,
+            29.8288
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 295480,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Portugal (2)"
+  },
+  {
+    "a_attr": {"title": "QAT 305095 Qatar (\u200fقطر\u200e) 2018-02-13 04:08:15+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            50.5675,
+            24.47075
+          ],
+          [
+            50.5675,
+            26.38302
+          ],
+          [
+            52.63801,
+            26.38302
+          ],
+          [
+            52.63801,
+            24.47075
+          ],
+          [
+            50.5675,
+            24.47075
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 305095,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Qatar (2)"
+  },
+  {
+    "a_attr": {"title": "ROU 90689 Romania (România) 2018-02-13 04:08:34+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            20.26198,
+            43.61868
+          ],
+          [
+            20.26198,
+            48.2654
+          ],
+          [
+            30.04543,
+            48.2654
+          ],
+          [
+            30.04543,
+            43.61868
+          ],
+          [
+            20.26198,
+            43.61868
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 90689,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Romania (2)"
+  },
+  {
+    "a_attr": {"title": "RUS 60189 Russia (Россия) 2018-02-13 08:23:45+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -180,
+            41.18587
+          ],
+          [
+            -180,
+            82.05862
+          ],
+          [
+            180,
+            82.05862
+          ],
+          [
+            180,
+            41.18587
+          ],
+          [
+            -180,
+            41.18587
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 60189,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Russia (2)"
+  },
+  {
+    "a_attr": {"title": "RWA 171496 Rwanda (Rwanda) 2018-02-13 04:08:52+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            28.86175,
+            -2.83898
+          ],
+          [
+            28.86175,
+            -1.04741
+          ],
+          [
+            30.89907,
+            -1.04741
+          ],
+          [
+            30.89907,
+            -2.83898
+          ],
+          [
+            28.86175,
+            -2.83898
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 171496,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Rwanda (2)"
+  },
+  {
+    "a_attr": {"title": "ESH 5441968 Sahrawi Arab Democratic Republic (الجمهورية العربية الصحراوية الديمقراطية\u200e\u200e) 2018-02-13 02:28:27+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -17.34947,
+            20.55688
+          ],
+          [
+            -17.34947,
+            27.66668
+          ],
+          [
+            -8.66639,
+            27.66668
+          ],
+          [
+            -8.66639,
+            20.55688
+          ],
+          [
+            -17.34947,
+            20.55688
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 5441968,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Sahrawi Arab Democratic Republic (2)"
+  },
+  {
+    "a_attr": {"title": "SHN 1964272 Saint Helena, Ascension and Tristan da Cunha (Saint Helena, Ascension and Tristan da Cunha) 2018-02-13 04:09:52+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -14.62269,
+            -40.57
+          ],
+          [
+            -14.62269,
+            -7.69
+          ],
+          [
+            -5.42342,
+            -7.69
+          ],
+          [
+            -5.42342,
+            -40.57
+          ],
+          [
+            -14.62269,
+            -40.57
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1964272,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Saint Helena, Ascension and Tristan da Cunha (2)"
+  },
+  {
+    "a_attr": {"title": "KNA 536899 Saint Kitts and Nevis (Saint Kitts and Nevis) 2018-02-13 03:11:48+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -63.05113,
+            16.895
+          ],
+          [
+            -63.05113,
+            17.61581
+          ],
+          [
+            -62.33035,
+            17.61581
+          ],
+          [
+            -62.33035,
+            16.895
+          ],
+          [
+            -63.05113,
+            16.895
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 536899,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Saint Kitts and Nevis (2)"
+  },
+  {
+    "a_attr": {"title": "LCA 550728 Saint Lucia (Saint Lucia) 2018-02-13 03:13:33+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -61.28539,
+            13.508
+          ],
+          [
+            -61.28539,
+            14.2725
+          ],
+          [
+            -60.66694,
+            14.2725
+          ],
+          [
+            -60.66694,
+            13.508
+          ],
+          [
+            -61.28539,
+            13.508
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 550728,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Saint Lucia (2)"
+  },
+  {
+    "a_attr": {"title": "VCT 550725 Saint Vincent and the Grenadines (Saint Vincent and the Grenadines) 2018-02-13 04:25:26+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -61.66575,
+            12.51665
+          ],
+          [
+            -61.66575,
+            13.583
+          ],
+          [
+            -60.90941,
+            13.583
+          ],
+          [
+            -60.90941,
+            12.51665
+          ],
+          [
+            -61.66575,
+            12.51665
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 550725,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Saint Vincent and the Grenadines (2)"
+  },
+  {
+    "a_attr": {"title": "WSM 1872673 Samoa (Sāmoa) 2018-02-13 04:27:53+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -173.00919,
+            -14.27709
+          ],
+          [
+            -173.00919,
+            -13.23819
+          ],
+          [
+            -171.19292,
+            -13.23819
+          ],
+          [
+            -171.19292,
+            -14.27709
+          ],
+          [
+            -173.00919,
+            -14.27709
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1872673,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Samoa (2)"
+  },
+  {
+    "a_attr": {"title": "SMR 54624 San Marino (San Marino) 2018-02-13 04:10:32+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            12.40332,
+            43.8937
+          ],
+          [
+            12.40332,
+            43.99209
+          ],
+          [
+            12.51607,
+            43.99209
+          ],
+          [
+            12.51607,
+            43.8937
+          ],
+          [
+            12.40332,
+            43.8937
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 54624,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "San Marino (2)"
+  },
+  {
+    "a_attr": {"title": "STP 535880 São Tomé and Príncipe (São Tomé e Príncipe) 2018-02-13 04:12:01+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            6.26064,
+            -0.21351
+          ],
+          [
+            6.26064,
+            1.92576
+          ],
+          [
+            7.67048,
+            1.92576
+          ],
+          [
+            7.67048,
+            -0.21351
+          ],
+          [
+            6.26064,
+            -0.21351
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 535880,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "São Tomé and Príncipe (2)"
+  },
+  {
+    "a_attr": {"title": "SAU 307584 Saudi Arabia (السعودية) 2018-02-13 04:08:57+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            34.49702,
+            16.29
+          ],
+          [
+            34.49702,
+            32.15434
+          ],
+          [
+            55.6667,
+            32.15434
+          ],
+          [
+            55.6667,
+            16.29
+          ],
+          [
+            34.49702,
+            16.29
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 307584,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Saudi Arabia (2)"
+  },
+  {
+    "a_attr": {"title": "SEN 192775 Senegal (Sénégal) 2018-02-13 04:09:40+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -17.78624,
+            12.23728
+          ],
+          [
+            -17.78624,
+            16.69197
+          ],
+          [
+            -11.3459,
+            16.69197
+          ],
+          [
+            -11.3459,
+            12.23728
+          ],
+          [
+            -17.78624,
+            12.23728
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192775,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Senegal (2)"
+  },
+  {
+    "a_attr": {"title": "SRB 1741311 Serbia (Србија) 2018-02-13 04:11:20+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            18.81429,
+            42.23224
+          ],
+          [
+            18.81429,
+            46.19005
+          ],
+          [
+            23.00631,
+            46.19005
+          ],
+          [
+            23.00631,
+            42.23224
+          ],
+          [
+            18.81429,
+            42.23224
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1741311,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Serbia (2)"
+  },
+  {
+    "a_attr": {"title": "SYC 536765 Seychelles (Sesel) 2018-02-13 04:16:26+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            45.99888,
+            -10.46493
+          ],
+          [
+            45.99888,
+            -3.512
+          ],
+          [
+            56.49794,
+            -3.512
+          ],
+          [
+            56.49794,
+            -10.46493
+          ],
+          [
+            45.99888,
+            -10.46493
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 536765,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Seychelles (2)"
+  },
+  {
+    "a_attr": {"title": "SLE 192777 Sierra Leone (Sierra Leone) 2018-02-13 04:10:10+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -13.50034,
+            6.755
+          ],
+          [
+            -13.50034,
+            9.99997
+          ],
+          [
+            -10.27168,
+            9.99997
+          ],
+          [
+            -10.27168,
+            6.755
+          ],
+          [
+            -13.50034,
+            6.755
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192777,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Sierra Leone (2)"
+  },
+  {
+    "a_attr": {"title": "SGP 536780 Singapore (Singapore) 2018-02-13 04:09:41+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            103.56667,
+            1.13036
+          ],
+          [
+            103.56667,
+            1.51316
+          ],
+          [
+            104.57068,
+            1.51316
+          ],
+          [
+            104.57068,
+            1.13036
+          ],
+          [
+            103.56667,
+            1.13036
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 536780,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Singapore (2)"
+  },
+  {
+    "a_attr": {"title": "SVK 14296 Slovakia (Slovensko) 2018-02-13 04:14:53+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            16.83319,
+            47.73143
+          ],
+          [
+            16.83319,
+            49.61382
+          ],
+          [
+            22.56571,
+            49.61382
+          ],
+          [
+            22.56571,
+            47.73143
+          ],
+          [
+            16.83319,
+            47.73143
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 14296,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Slovakia (2)"
+  },
+  {
+    "a_attr": {"title": "SVN 218657 Slovenia (Slovenija) 2018-02-13 04:15:56+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            13.37547,
+            45.42142
+          ],
+          [
+            13.37547,
+            46.87668
+          ],
+          [
+            16.59677,
+            46.87668
+          ],
+          [
+            16.59677,
+            45.42142
+          ],
+          [
+            13.37547,
+            45.42142
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 218657,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Slovenia (2)"
+  },
+  {
+    "a_attr": {"title": "SLB 1857436 Solomon Islands (Solomon Islands) 2018-02-13 04:09:55+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            155.31906,
+            -13.24243
+          ],
+          [
+            155.31906,
+            -4.81085
+          ],
+          [
+            170.39647,
+            -4.81085
+          ],
+          [
+            170.39647,
+            -13.24243
+          ],
+          [
+            155.31906,
+            -13.24243
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1857436,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Solomon Islands (2)"
+  },
+  {
+    "a_attr": {"title": "SOM 192799 Somalia (Soomaaliya الصومال) 2018-02-13 04:10:36+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            40.98918,
+            -1.8032
+          ],
+          [
+            40.98918,
+            12.18891
+          ],
+          [
+            51.61777,
+            12.18891
+          ],
+          [
+            51.61777,
+            -1.8032
+          ],
+          [
+            40.98918,
+            -1.8032
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192799,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Somalia (2)"
+  },
+  {
+    "a_attr": {"title": "ZAF 87565 South Africa (South Africa) 2018-02-13 04:30:46+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            16.33352,
+            -47.17883
+          ],
+          [
+            16.33352,
+            -22.12503
+          ],
+          [
+            38.2899,
+            -22.12503
+          ],
+          [
+            38.2899,
+            -47.17883
+          ],
+          [
+            16.33352,
+            -47.17883
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 87565,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "South Africa (2)"
+  },
+  {
+    "a_attr": {"title": "SGS 1983628 South Georgia and the South Sandwich Islands (South Georgia and South Sandwich Islands) 2018-02-13 04:09:48+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -42.13491,
+            -59.684
+          ],
+          [
+            -42.13491,
+            -53.45317
+          ],
+          [
+            -25.84683,
+            -53.45317
+          ],
+          [
+            -25.84683,
+            -59.684
+          ],
+          [
+            -42.13491,
+            -59.684
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1983628,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "South Georgia and the South Sandwich Islands (2)"
+  },
+  {
+    "a_attr": {"title": "KOR 307756 South Korea (대한민국) 2018-02-13 03:12:01+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            124.35485,
+            32.87788
+          ],
+          [
+            124.35485,
+            38.62348
+          ],
+          [
+            132.14833,
+            38.62348
+          ],
+          [
+            132.14833,
+            32.87788
+          ],
+          [
+            124.35485,
+            32.87788
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 307756,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "South Korea (2)"
+  },
+  {
+    "a_attr": {"title": "SSD 1656678 South Sudan (South Sudan) 2018-02-13 04:12:00+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            23.44778,
+            3.48898
+          ],
+          [
+            23.44778,
+            12.23639
+          ],
+          [
+            35.949,
+            12.23639
+          ],
+          [
+            35.949,
+            3.48898
+          ],
+          [
+            23.44778,
+            3.48898
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1656678,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "South Sudan (2)"
+  },
+  {
+    "a_attr": {"title": "ESP 1311341 Spain (España) 2018-02-13 02:32:42+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -18.39368,
+            27.43354
+          ],
+          [
+            -18.39368,
+            43.99331
+          ],
+          [
+            4.59189,
+            43.99331
+          ],
+          [
+            4.59189,
+            27.43354
+          ],
+          [
+            -18.39368,
+            27.43354
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 1311341,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Spain (2)"
+  },
+  {
+    "a_attr": {"title": "LKA 536807 Sri Lanka (ශ්\u200dරී ලංකාව இலங்கை) 2018-02-13 03:13:44+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            79.39592,
+            5.719
+          ],
+          [
+            79.39592,
+            10.035
+          ],
+          [
+            82.08101,
+            10.035
+          ],
+          [
+            82.08101,
+            5.719
+          ],
+          [
+            79.39592,
+            5.719
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 536807,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Sri Lanka (2)"
+  },
+  {
+    "a_attr": {"title": "SDN 192789 Sudan (السودان) 2018-02-13 04:09:16+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            21.8145,
+            8.68528
+          ],
+          [
+            21.8145,
+            22.22492
+          ],
+          [
+            39.05763,
+            22.22492
+          ],
+          [
+            39.05763,
+            8.68528
+          ],
+          [
+            21.8145,
+            8.68528
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192789,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Sudan (2)"
+  },
+  {
+    "a_attr": {"title": "SUR 287082 Suriname (Suriname) 2018-02-13 04:12:09+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -58.07083,
+            1.83128
+          ],
+          [
+            -58.07083,
+            6.225
+          ],
+          [
+            -53.84334,
+            6.225
+          ],
+          [
+            -53.84334,
+            1.83128
+          ],
+          [
+            -58.07083,
+            1.83128
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 287082,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Suriname (2)"
+  },
+  {
+    "a_attr": {"title": "SWZ 88210 Swaziland (eSwatini Swaziland) 2018-02-13 04:16:23+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            30.7908,
+            -27.31752
+          ],
+          [
+            30.7908,
+            -25.71876
+          ],
+          [
+            32.13499,
+            -25.71876
+          ],
+          [
+            32.13499,
+            -27.31752
+          ],
+          [
+            30.7908,
+            -27.31752
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 88210,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Swaziland (2)"
+  },
+  {
+    "a_attr": {"title": "SWE 52822 Sweden (Sverige) 2018-02-13 04:16:18+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            10.5931,
+            55.13312
+          ],
+          [
+            10.5931,
+            69.05997
+          ],
+          [
+            24.17768,
+            69.05997
+          ],
+          [
+            24.17768,
+            55.13312
+          ],
+          [
+            10.5931,
+            55.13312
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 52822,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Sweden (2)"
+  },
+  {
+    "a_attr": {"title": "CHE 51701 Switzerland (Schweiz/Suisse/Svizzera/Svizra) 2018-02-13 02:01:39+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            5.95591,
+            45.818
+          ],
+          [
+            5.95591,
+            47.80846
+          ],
+          [
+            10.49229,
+            47.80846
+          ],
+          [
+            10.49229,
+            45.818
+          ],
+          [
+            5.95591,
+            45.818
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 51701,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Switzerland (2)"
+  },
+  {
+    "a_attr": {"title": "SYR 184840 Syria (سوريا) 2018-02-13 04:16:38+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            35.47144,
+            32.31135
+          ],
+          [
+            35.47144,
+            37.31846
+          ],
+          [
+            42.37457,
+            37.31846
+          ],
+          [
+            42.37457,
+            32.31135
+          ],
+          [
+            35.47144,
+            32.31135
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 184840,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Syria (2)"
+  },
+  {
+    "a_attr": {"title": "TWN 449220 Taiwan (臺灣) 2018-02-13 04:23:15+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            114.35992,
+            10.37427
+          ],
+          [
+            114.35992,
+            26.40158
+          ],
+          [
+            122.297,
+            26.40158
+          ],
+          [
+            122.297,
+            10.37427
+          ],
+          [
+            114.35992,
+            10.37427
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 449220,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Taiwan (2)"
+  },
+  {
+    "a_attr": {"title": "TJK 214626 Tajikistan (Тоҷикистон) 2018-02-13 04:18:46+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            67.33328,
+            36.67112
+          ],
+          [
+            67.33328,
+            41.04509
+          ],
+          [
+            75.15396,
+            41.04509
+          ],
+          [
+            75.15396,
+            36.67112
+          ],
+          [
+            67.33328,
+            36.67112
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 214626,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Tajikistan (2)"
+  },
+  {
+    "a_attr": {"title": "TZA 195270 Tanzania (Tanzania) 2018-02-13 04:23:57+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            29.32698,
+            -11.76125
+          ],
+          [
+            29.32698,
+            -0.98548
+          ],
+          [
+            40.65841,
+            -0.98548
+          ],
+          [
+            40.65841,
+            -11.76125
+          ],
+          [
+            29.32698,
+            -11.76125
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 195270,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Tanzania (2)"
+  },
+  {
+    "a_attr": {"title": "THA 2067731 Thailand (ประเทศไทย) 2018-02-13 04:18:25+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            97.34381,
+            5.61285
+          ],
+          [
+            97.34381,
+            20.46483
+          ],
+          [
+            105.63681,
+            20.46483
+          ],
+          [
+            105.63681,
+            5.61285
+          ],
+          [
+            97.34381,
+            5.61285
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2067731,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Thailand (2)"
+  },
+  {
+    "a_attr": {"title": "BHS 547469 The Bahamas (The Bahamas) 2018-02-13 01:38:53+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -80.70019,
+            20.70598
+          ],
+          [
+            -80.70019,
+            27.47346
+          ],
+          [
+            -72.44775,
+            27.47346
+          ],
+          [
+            -72.44775,
+            20.70598
+          ],
+          [
+            -80.70019,
+            20.70598
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 547469,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "The Bahamas (2)"
+  },
+  {
+    "a_attr": {"title": "NLD 2323309 The Netherlands (Nederland) 2018-02-13 03:34:55+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -70.26959,
+            11.777
+          ],
+          [
+            -70.26959,
+            53.72533
+          ],
+          [
+            7.2275,
+            53.72533
+          ],
+          [
+            7.2275,
+            11.777
+          ],
+          [
+            -70.26959,
+            11.777
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2323309,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "The Netherlands (2)"
+  },
+  {
+    "a_attr": {"title": "TGO 192782 Togo (Togo) 2018-02-13 04:17:17+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -0.14397,
+            5.92655
+          ],
+          [
+            -0.14397,
+            11.13951
+          ],
+          [
+            1.80876,
+            11.13951
+          ],
+          [
+            1.80876,
+            5.92655
+          ],
+          [
+            -0.14397,
+            5.92655
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192782,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Togo (2)"
+  },
+  {
+    "a_attr": {"title": "TKL 2186600 Tokelau (Tokelau) 2018-02-13 04:18:48+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -172.72137,
+            -9.64425
+          ],
+          [
+            -172.72137,
+            -8.33286
+          ],
+          [
+            -170.97976,
+            -8.33286
+          ],
+          [
+            -170.97976,
+            -9.64425
+          ],
+          [
+            -172.72137,
+            -9.64425
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2186600,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Tokelau (2)"
+  },
+  {
+    "a_attr": {"title": "TON 2186665 Tonga (Tonga) 2018-02-13 04:19:16+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -179.38661,
+            -24.10345
+          ],
+          [
+            -179.38661,
+            -15.36557
+          ],
+          [
+            -173.52955,
+            -15.36557
+          ],
+          [
+            -173.52955,
+            -24.10345
+          ],
+          [
+            -179.38661,
+            -24.10345
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2186665,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Tonga (2)"
+  },
+  {
+    "a_attr": {"title": "TTO 555717 Trinidad and Tobago (Trinidad and Tobago) 2018-02-13 04:19:18+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -62.08306,
+            9.87321
+          ],
+          [
+            -62.08306,
+            11.56284
+          ],
+          [
+            -60.28958,
+            11.56284
+          ],
+          [
+            -60.28958,
+            9.87321
+          ],
+          [
+            -62.08306,
+            9.87321
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 555717,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Trinidad and Tobago (2)"
+  },
+  {
+    "a_attr": {"title": "TUN 192757 Tunisia (تونس) 2018-02-13 04:20:58+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            7.52198,
+            30.23024
+          ],
+          [
+            7.52198,
+            37.76121
+          ],
+          [
+            11.88011,
+            37.76121
+          ],
+          [
+            11.88011,
+            30.23024
+          ],
+          [
+            7.52198,
+            30.23024
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192757,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Tunisia (2)"
+  },
+  {
+    "a_attr": {"title": "TUR 174737 Turkey (Türkiye) 2018-02-13 04:22:02+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            25.62129,
+            35.80768
+          ],
+          [
+            25.62129,
+            42.297
+          ],
+          [
+            44.81766,
+            42.297
+          ],
+          [
+            44.81766,
+            35.80768
+          ],
+          [
+            25.62129,
+            35.80768
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 174737,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Turkey (2)"
+  },
+  {
+    "a_attr": {"title": "TKM 223026 Turkmenistan (Türkmenistan) 2018-02-13 04:19:05+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            52.33508,
+            35.12909
+          ],
+          [
+            52.33508,
+            42.79756
+          ],
+          [
+            66.68952,
+            42.79756
+          ],
+          [
+            66.68952,
+            35.12909
+          ],
+          [
+            52.33508,
+            35.12909
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 223026,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Turkmenistan (2)"
+  },
+  {
+    "a_attr": {"title": "TCA 547479 Turks and Caicos Islands (Turks and Caicos Islands) 2018-02-13 04:16:40+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -72.6799,
+            20.95534
+          ],
+          [
+            -72.6799,
+            22.1631
+          ],
+          [
+            -70.86436,
+            22.1631
+          ],
+          [
+            -70.86436,
+            20.95534
+          ],
+          [
+            -72.6799,
+            20.95534
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 547479,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Turks and Caicos Islands (2)"
+  },
+  {
+    "a_attr": {"title": "TUV 2177266 Tuvalu (Tuvalu) 2018-02-13 04:22:11+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -180,
+            -10.99394
+          ],
+          [
+            -180,
+            -5.43696
+          ],
+          [
+            180,
+            -5.43696
+          ],
+          [
+            180,
+            -10.99394
+          ],
+          [
+            -180,
+            -10.99394
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2177266,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Tuvalu (2)"
+  },
+  {
+    "a_attr": {"title": "UGA 192796 Uganda (Uganda) 2018-02-13 04:24:42+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            29.57343,
+            -1.48232
+          ],
+          [
+            29.57343,
+            4.23408
+          ],
+          [
+            35.00031,
+            4.23408
+          ],
+          [
+            35.00031,
+            -1.48232
+          ],
+          [
+            29.57343,
+            -1.48232
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 192796,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Uganda (2)"
+  },
+  {
+    "a_attr": {"title": "UKR 60199 Ukraine (Україна) 2018-02-13 08:28:41+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            22.13706,
+            44.1846
+          ],
+          [
+            22.13706,
+            52.37915
+          ],
+          [
+            40.22758,
+            52.37915
+          ],
+          [
+            40.22758,
+            44.1846
+          ],
+          [
+            22.13706,
+            44.1846
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 60199,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Ukraine (2)"
+  },
+  {
+    "a_attr": {"title": "ARE 307763 United Arab Emirates (الإمارات العربيّة المتّحدة) 2018-02-13 01:24:52+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            51.41607,
+            22.63162
+          ],
+          [
+            51.41607,
+            26.15172
+          ],
+          [
+            56.60245,
+            26.15172
+          ],
+          [
+            56.60245,
+            22.63162
+          ],
+          [
+            51.41607,
+            22.63162
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 307763,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "United Arab Emirates (2)"
+  },
+  {
+    "a_attr": {"title": "GBR 62149 United Kingdom (United Kingdom) 2018-02-13 06:20:00+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -14.01552,
+            49.674
+          ],
+          [
+            -14.01552,
+            61.061
+          ],
+          [
+            2.09191,
+            61.061
+          ],
+          [
+            2.09191,
+            49.674
+          ],
+          [
+            -14.01552,
+            49.674
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 62149,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "United Kingdom (2)"
+  },
+  {
+    "a_attr": {"title": "USA 148838 United States of America (United States of America) 2018-02-13 09:20:46+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -180,
+            -14.76084
+          ],
+          [
+            -180,
+            71.60482
+          ],
+          [
+            180,
+            71.60482
+          ],
+          [
+            180,
+            -14.76084
+          ],
+          [
+            -180,
+            -14.76084
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 148838,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "United States of America (2)"
+  },
+  {
+    "a_attr": {"title": "URY 287072 Uruguay (Uruguay) 2018-02-13 04:24:59+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -58.49484,
+            -35.78245
+          ],
+          [
+            -58.49484,
+            -30.0854
+          ],
+          [
+            -53.07558,
+            -30.0854
+          ],
+          [
+            -53.07558,
+            -35.78245
+          ],
+          [
+            -58.49484,
+            -35.78245
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 287072,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Uruguay (2)"
+  },
+  {
+    "a_attr": {"title": "UZB 196240 Uzbekistan (Oʻzbekiston) 2018-02-13 04:25:21+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            55.99779,
+            37.17721
+          ],
+          [
+            55.99779,
+            45.59012
+          ],
+          [
+            73.13974,
+            45.59012
+          ],
+          [
+            73.13974,
+            37.17721
+          ],
+          [
+            55.99779,
+            37.17721
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 196240,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Uzbekistan (2)"
+  },
+  {
+    "a_attr": {"title": "VUT 2177246 Vanuatu (Vanuatu) 2018-02-13 04:27:52+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            166.33553,
+            -20.46274
+          ],
+          [
+            166.33553,
+            -12.87138
+          ],
+          [
+            170.44998,
+            -12.87138
+          ],
+          [
+            170.44998,
+            -20.46274
+          ],
+          [
+            166.33553,
+            -20.46274
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 2177246,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Vanuatu (2)"
+  },
+  {
+    "a_attr": {"title": "VAT 36989 Vatican City (Civitas Vaticana) 2018-02-13 04:25:22+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            12.44574,
+            41.9002
+          ],
+          [
+            12.44574,
+            41.90739
+          ],
+          [
+            12.45837,
+            41.90739
+          ],
+          [
+            12.45837,
+            41.9002
+          ],
+          [
+            12.44574,
+            41.9002
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 36989,
+    "state": {
+      "disabled": false,
+      "loaded": true,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Vatican City (2)"
+  },
+  {
+    "a_attr": {"title": "VEN 272644 Venezuela (Venezuela) 2018-02-13 04:26:31+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            -73.35296,
+            0.64753
+          ],
+          [
+            -73.35296,
+            15.91584
+          ],
+          [
+            -59.54271,
+            15.91584
+          ],
+          [
+            -59.54271,
+            0.64753
+          ],
+          [
+            -73.35296,
+            0.64753
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 272644,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Venezuela (2)"
+  },
+  {
+    "a_attr": {"title": "VNM 49915 Vietnam (Việt Nam) 2018-02-13 04:27:50+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            102.14441,
+            8.17907
+          ],
+          [
+            102.14441,
+            23.3934
+          ],
+          [
+            114.33376,
+            23.3934
+          ],
+          [
+            114.33376,
+            8.17907
+          ],
+          [
+            102.14441,
+            8.17907
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 49915,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Vietnam (2)"
+  },
+  {
+    "a_attr": {"title": "YEM 305092 Yemen (اليمن) 2018-02-13 04:28:12+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            41.60825,
+            11.90848
+          ],
+          [
+            41.60825,
+            19
+          ],
+          [
+            54.73894,
+            19
+          ],
+          [
+            54.73894,
+            11.90848
+          ],
+          [
+            41.60825,
+            11.90848
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 305092,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Yemen (2)"
+  },
+  {
+    "a_attr": {"title": "ZMB 195271 Zambia (Zambia) 2018-02-13 04:31:19+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            21.99935,
+            -18.0767
+          ],
+          [
+            21.99935,
+            -8.27128
+          ],
+          [
+            33.7025,
+            -8.27128
+          ],
+          [
+            33.7025,
+            -18.0767
+          ],
+          [
+            21.99935,
+            -18.0767
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 195271,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Zambia (2)"
+  },
+  {
+    "a_attr": {"title": "ZWE 195272 Zimbabwe (Zimbabwe) 2018-02-13 04:31:35+01"},
+    "data": {
+      "admin_level": 2,
+      "bbox": {
+        "coordinates": [[
+          [
+            25.2373,
+            -22.42411
+          ],
+          [
+            25.2373,
+            -15.6097
+          ],
+          [
+            33.06834,
+            -15.6097
+          ],
+          [
+            33.06834,
+            -22.42411
+          ],
+          [
+            25.2373,
+            -22.42411
+          ]
+        ]],
+        "type": "Polygon"
+      }
+    },
+    "id": 195272,
+    "state": {
+      "disabled": false,
+      "loaded": false,
+      "opened": false,
+      "selected": false
+    },
+    "text": "Zimbabwe (2)"
+  }
+]
