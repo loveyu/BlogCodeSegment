@@ -1,15 +1,20 @@
 {
-    "name": "loveyu/blog-code-segment",
-    "description": "The code segment by loveyu's blog.",
-    "type": "project",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "loveyu",
-            "email": "i@loveyu.info"
-        }
-    ],
-    "require": {
-        "guzzlehttp/guzzle": "^6.3"
+  "name": "loveyu/blog-code-segment",
+  "description": "The code segment by loveyu's blog.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "loveyu",
+      "email": "i@loveyu.info"
     }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "loveyu\\": "src/loveyu/"
+    }
+  }
 }
