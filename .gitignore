@@ -1,3 +1,4 @@
 .idea/
 /vendor/
 /Cache/Dead/
+/Config/*.php
