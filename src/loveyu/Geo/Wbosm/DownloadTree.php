@@ -10,6 +10,7 @@ namespace loveyu\Geo\Wbosm;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Cookie\CookieJar;
+use function GuzzleHttp\Promise\settle;
 use loveyu\FileCache\Dead;
 
 class DownloadTree
@@ -59,31 +60,71 @@ class DownloadTree
 
 	public function download()
 	{
+		$error_map = [];
+		$empty_map = [];
+		$not_num_id = [];
 		$list = [0];
 		$i = 0;
 		while(!empty($list)) {
-			echo sprintf("%d/%d:", $i++, count($list));
-			$id = (int)array_shift($list);
+			echo sprintf("%d/%d:", $i, count($list));
+			$ids = [];
+			if($i == 0) {
+				$ids[] = 0;
+			}
+			for($j = 0; $j < 5; $j++) {
+				$id = (int)array_shift($list);
+				$i++;
+				if(!is_null($id) && is_numeric($id) && $id > 0) {
+					$ids[] = $id;
+				}
+			}
 			$start_time = microtime(true);
-			$obj = $this->get_cache($id);
-			if(empty($obj)) {
-				echo "[error]";
-			} else {
-				$obj = \json_decode($obj, true);
-				if(is_array($obj) && !empty($obj)) {
-					foreach($obj as $item) {
-						if(!$item['state']['loaded']) {
-							array_push($list, (int)$item['id']);
-						}
-					}
+			$obj_list = $this->get_cache($ids);
+			foreach($obj_list as $k => $obj) {
+				if(empty($obj)) {
+					$error_map[] = $k;
+					echo "[error]";
 				} else {
-					echo "[empty]";
+					$obj = \json_decode($obj, true);
+					if(is_array($obj)) {
+						if(empty($obj)) {
+							$empty_map[] = $k;
+							echo "[empty]";
+						} else {
+							foreach($obj as $item) {
+								if(!$item['state']['loaded']) {
+									if(!is_numeric($item['id'])) {
+										$not_num_id[] = $item['id'];
+									}
+									array_push($list, (int)$item['id']);
+								}
+							}
+						}
+					} else {
+						$error_map[] = $k;
+						echo "[empty error]";
+					}
 				}
 			}
 			echo sprintf("%.6f\n", microtime(true) - $start_time);
 		}
 //		header("Content-Type: application/json; charset=utf-8");
 //		print_r($obj);
+		if(!empty($error_map)) {
+			echo "Error Num:".count($error_map)."\n";
+		}
+		file_put_contents(BCS_DATA."wb_error_map.txt", implode(",", $error_map));
+
+		if(!empty($empty_map)) {
+			echo "Empty Num:".count($empty_map)."\n";
+		}
+		file_put_contents(BCS_DATA."wb_empty_map.txt", implode(",", $empty_map));
+		if(!empty($not_num_id)) {
+			echo "Not Num id:".count($not_num_id)."\n";
+		}
+		file_put_contents(BCS_DATA."wb_not_num_map.txt", implode(",", $not_num_id));
+
+
 		$this->save_cookie();
 	}
 
@@ -92,41 +133,76 @@ class DownloadTree
 		$this->cache->set($this->cookie_cache_key, $this->cookie);
 	}
 
-	public function get_cache(int $id): ?string
+	public function get_cache(array $ids): array
 	{
-		$cache_key = __METHOD__.":".$id;
-		$cache = $this->cache->get($cache_key);
-		if(is_string($cache)) {
-			return $cache;
+		if(empty($ids)) {
+			return [];
 		}
-		if($id < 1) {
-			$param = [
-				"caller"      => "boundaries-4.3.6",
-				"database"    => "planet3",
-				"parent"      => "0",
-				"path"        => "",
-				"admin_level" => "1",
-			];
-		} else {
-			$param = [
-				"caller"   => "boundaries-4.3.6",
-				"database" => "planet3",
-				"parent"   => $id,
-			];
+		$result_map = array_fill_keys($ids, null);
+		$keys = array_fill_keys($ids, null);
+		foreach($ids as $id) {
+			$cache_key = Utils::mk_cache_key((string)$id);
+//			die($cache_key);
+			$cache = $this->cache->get($cache_key);
+			if(is_string($cache) && $cache !== "") {
+				$result_map[$id] = $cache;
+				unset($keys[$id]);
+			}
 		}
-		try {
-			$res = $this->client->post("/boundaries/getJsTree6", [
-				"form_params" => $param
+		if(empty($keys)) {
+			return $result_map;
+		}
+		$promises = [];
+		foreach($keys as $id => $null) {
+			if($id < 1) {
+				$param = [
+					"caller"      => "boundaries-4.3.6",
+					"database"    => "planet3",
+					"parent"      => "0",
+					"path"        => "",
+					"admin_level" => "1",
+				];
+			} else {
+				$param = [
+					"caller"   => "boundaries-4.3.6",
+					"database" => "planet3",
+					"parent"   => $id,
+				];
+			}
+			$promises[$id] = $this->client->postAsync("/boundaries/getJsTree6", [
+				'form_params' => $param
 			]);
+		}
+		if(empty($promises)) {
+			return $result_map;
+		}
+
+		$results = settle($promises)->wait();
+
+		foreach($results as $K => $result) {
+			if(empty($result['value'])) {
+				echo "Error KEY:{$K}\n";
+				continue;
+			}
+			$res = $result['value'];
+			if(empty($res)) {
+				echo "Error KEY RES:{$K}\n";
+				continue;
+			}
+			/**
+			 * @var \GuzzleHttp\Psr7\Response $res
+			 */
 			$data = $res->getBody();
 			$data->seek(0);
 			$size = $data->getSize();
 			$content = $data->read($size);
-			$this->cache->set($cache_key, $content);
-			return $content;
-		} catch(\Exception $exception) {
-			echo $exception->getMessage();
-			return null;
+			if(!empty($content)) {
+				$cache_key = __METHOD__.":".$K;
+				$this->cache->set($cache_key, $content);
+				$result_map[$K] = $content;
+			}
 		}
+
+		return $result_map;
 	}
 }
