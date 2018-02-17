@@ -40,6 +40,7 @@ class DownloadTree
 	public function __construct()
 	{
 		$this->cookie_cache_key = __CLASS__.":CookieCacheKey";
+		die($this->cookie_cache_key);
 		$this->cache = new Dead();
 		$this->cookie = $this->get_cookie();
 		$this->client = new Client([
