@@ -68,14 +68,11 @@ class DownloadTree
 		while(!empty($list)) {
 			echo sprintf("%d/%d:", $i, count($list));
 			$ids = [];
-			if($i == 0) {
-				$ids[] = 0;
-			}
 			for($j = 0; $j < 5; $j++) {
-				$id = (int)array_shift($list);
+				$id = array_shift($list);
 				$i++;
-				if(!is_null($id) && is_numeric($id) && $id > 0) {
-					$ids[] = $id;
+				if(!is_null($id) && is_numeric($id)) {
+					$ids[] = (int)$id;
 				}
 			}
 			$start_time = microtime(true);
@@ -96,7 +93,12 @@ class DownloadTree
 									if(!is_numeric($item['id'])) {
 										$not_num_id[] = $item['id'];
 									}
-									array_push($list, (int)$item['id']);
+									$new_id = (int)$item['id'];
+									if($new_id > 0) {
+										array_push($list, $new_id);
+									} else {
+										$not_num_id[] = $new_id;
+									}
 								}
 							}
 						}
