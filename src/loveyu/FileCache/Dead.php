@@ -35,6 +35,14 @@ class Dead
 		file_put_contents($this->file($key, true), serialize($cache));
 	}
 
+	public function delete($key)
+	{
+		$file = $this->file($key);
+		if(is_file($file)) {
+			@unlink($file);
+		}
+	}
+
 	private function file(string $key, bool $make_dir = false)
 	{
 		$hash = hash("sha256", $key);

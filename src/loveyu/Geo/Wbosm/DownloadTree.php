@@ -11,14 +11,28 @@ namespace loveyu\Geo\Wbosm;
 use GuzzleHttp\Client;
 use GuzzleHttp\Cookie\CookieJar;
 use function GuzzleHttp\Promise\settle;
+use loveyu\DB\PG\WbOSM;
 use loveyu\FileCache\Dead;
 
 class DownloadTree
 {
+	/**
+	 * @var Client
+	 */
 	private $client;
+	/**
+	 * @var CookieJar
+	 */
 	private $cookie;
+	/**
+	 * @var string
+	 */
 	private $cookie_cache_key;
+	/**
+	 * @var Dead
+	 */
 	private $cache;
+
 
 	/**
 	 * DownloadTree constructor.
@@ -33,6 +47,7 @@ class DownloadTree
 			'timeout'  => 60.0,
 			'cookies'  => $this->cookie,
 			'verify'   => false,
+//			'proxy'    => "http://127.0.0.1:8888",
 			'headers'  => [
 				'User-Agent'       => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36',
 				'X-Requested-With' => 'XMLHttpRequest',
@@ -58,12 +73,27 @@ class DownloadTree
 		}
 	}
 
+	public function start_no_finish()
+	{
+//		$db = WbOSM::getInstance()->getDbAct();
+//		$list = $db->select("tree_index_tbl", "id", ["loaded" => 0, "next_num" => 0]);
+		$list = [4742849, 4743065, 4742936, 4742974, 4742799, 4743032, 4743044];
+		foreach($list as $id) {
+			$cache_key = Utils::mk_cache_key($id);
+//			echo "Delete {$cache_key}\n";
+//			$this->cache->delete($cache_key);
+			$res = $this->cache->get($cache_key);
+			var_dump($res);
+		}
+	}
+
 	public function download()
 	{
 		$error_map = [];
 		$empty_map = [];
 		$not_num_id = [];
-		$list = [0];
+//		$list = [0];
+		$list = [4742849, 4743065, 4742936, 4742974, 4742799, 4743032, 4743044];
 		$i = 0;
 		while(!empty($list)) {
 			echo sprintf("%d/%d:", $i, count($list));
@@ -146,6 +176,7 @@ class DownloadTree
 			$cache_key = Utils::mk_cache_key((string)$id);
 //			die($cache_key);
 			$cache = $this->cache->get($cache_key);
+//			echo($cache);
 			if(is_string($cache) && $cache !== "") {
 				$result_map[$id] = $cache;
 				unset($keys[$id]);

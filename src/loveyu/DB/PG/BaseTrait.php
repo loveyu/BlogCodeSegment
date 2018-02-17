@@ -49,4 +49,12 @@ trait BaseTrait
 			return null;
 		}
 	}
+
+	/**
+	 * @return Medoo
+	 */
+	public function getDbAct(): ?Medoo
+	{
+		return $this->db_act;
+	}
 }
