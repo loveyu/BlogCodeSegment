@@ -78,7 +78,7 @@ class DownloadShp
 			try {
 				$size = $this->download_file($id, $file_name);
 			} catch(\Exception $ex) {
-				echo "Error.";
+				echo "Error.\n";
 				continue;
 			}
 			echo sprintf("%d,T:%0.3f\n", $size, microtime(true) - $start_time);
