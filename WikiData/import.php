@@ -6,6 +6,8 @@
  */
 require_once __DIR__."/../vendor/autoload.php";
 
+date_default_timezone_set("Asia/Shanghai");
+
 use Wikibase\JsonDumpReader\JsonDumpFactory;
 
 $filesize = filesize($argv[1]);
@@ -37,7 +39,7 @@ $insert_func = function() use (&$queue, &$queue_num, &$medoo) {
 		$queue_num = 0;
 		return 0;
 	}
-	$insert_sql = "INSERT INTO \"public\".\"item_tbl\" (\"id\", \"type\", \"labels\", \"descriptions\", \"aliases\", \"claims\", \"sitelinks\") VALUES ";
+	$insert_sql = "INSERT INTO \"public\".\"item_tbl\" (\"line_id\",\"id\", \"type\", \"labels\", \"descriptions\", \"aliases\", \"claims\", \"sitelinks\", \"other\") VALUES ";
 	$values = [];
 	$i = 0;
 	$bind_map = [];
@@ -49,7 +51,7 @@ $insert_func = function() use (&$queue, &$queue_num, &$medoo) {
 			$n++;
 			$k = "_{$i}_";
 			$bind_map[$k] = [$value, PDO::PARAM_STR];
-			$param[] = $n > 2 ? ":{$k}::json" : ":{$k}";
+			$param[] = $n > 3 ? ":{$k}::json" : ":{$k}";
 		}
 		$values[] = implode(",", $param);
 	}
@@ -65,39 +67,70 @@ $insert_func = function() use (&$queue, &$queue_num, &$medoo) {
 	return $res;
 };
 
+$start_time = microtime(true);
+
+echo "Start: ".date("Y-m-d H:i:s"), "\n";
 
 $i = 0;
 $insert = 0;
+$agv = 0;
+$left_time = 0;
+$start_p = 0;
 do {
-	if($i++ % 50 == 0) {
+	if($i++ % 100 == 0) {
 		$tell = $dumpReader->getPosition();
-		printf("\rProcess: %0.5f, Num: %d, Ignore: %d, Insert: %d", $tell / $filesize * 100, $num, $ignore, $insert);
+		$p = $tell / $filesize * 100;
+		if($i % 1000 === 1) {
+			$ut = microtime(true) - $start_time;
+			$agv = $insert / $ut;
+			$left_time = @(($ut / (($p - $start_p) / 100)) * (1 - $start_p / 100) - $ut) / 3600;
+		}
+		printf("\rProcess: %0.5f, Num: %d, Ignore: %d, Insert: %d, Agv:%0.2fk, LF:%0.2fh", $p, $num, $ignore, $insert, $agv / 1000, $left_time);
 	}
 
 	$line = $dumpReader->nextJsonLine();
 	if(empty($line)) {
 		break;
 	}
+
+//	if($i <= 1226445) {
+//		continue;
+//	} else {
+//		if($start_p === 0) {
+//			$start_p = $dumpReader->getPosition() / $filesize * 100;
+//		}
+//	}
+
 	$obj = json_decode($line, true);
 
 	if(empty($obj) || !isset($obj['type']) || !isset($obj['id']) || $obj['type'] !== "item") {
 		$ignore++;
 	}
 	$num++;
-	$queue[] = [
+	$queue_obj = [
+		$i,
 		$obj['id'],
 		$obj['type'],
-		json_encode($obj['labels']),
-		json_encode($obj['descriptions']),
-		json_encode($obj['aliases']),
-		json_encode($obj['claims']),
-		json_encode($obj['sitelinks']),
+		json_encode(isset($obj['labels']) ? $obj['labels'] : null),
+		json_encode(isset($obj['descriptions']) ? $obj['descriptions'] : null),
+		json_encode(isset($obj['aliases']) ? $obj['aliases'] : null),
+		json_encode(isset($obj['claims']) ? $obj['claims'] : null),
+		json_encode(isset($obj['sitelinks']) ? $obj['sitelinks'] : null),
 	];
+
+	$other = [];
+	foreach($obj as $k => $v) {
+		if(!in_array($k, ["id", "type", "labels", "descriptions", "aliases", "claims", "sitelinks"])) {
+			$other[$k] = $v;
+		}
+	}
+	$queue_obj[] = json_encode($other);
+	$queue[] = $queue_obj;
 
 	if($queue_num++ > 1000) {
 		$insert += $insert_func();
 	}
-} while(!empty($line));
+} while(true);
 
 echo PHP_EOL;
 
